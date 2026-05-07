@@ -1,0 +1,401 @@
+﻿category,user_id,product_group,item_name,clean,label_ground,rule_label,rule_conf,ml_label,ml_conf,pred_label,pred_source,flag_review,noise_flag
+Medical,68d6a95c2f7243bd8e04e0e0,Dụng cụ Y tế,Pmc Khẩu Trang Y Tế Màu Xanh,pmc khẩu trang y tế màu xanh,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.882,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dụng cụ Y tế,Pmc Khau Trang Y Te Mau Tra,pmc khau trang y te mau tra,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.899,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dụng cụ Y tế,Tang Pmc Khau Trang Y Te Ma,tang pmc khau trang y te ma,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.874,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dụng cụ Y tế,Pmc Băng Cá Nhân Trong Suốt,pmc băng cá nhân trong suốt,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.731,Dụng cụ Y tế,ground-truth,0,False
+Medical,68e4f8f3a48ee0b704010230,Dụng cụ Y tế,Khau Trang Y Te Mau Trắng,khau trang y te mau trắng,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.877,Dụng cụ Y tế,ground-truth,0,False
+Medical,68e4f8f3a48ee0b704010230,Dụng cụ Y tế,Khau Trang Y Te,khau trang y te,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.949,Dụng cụ Y tế,ground-truth,0,False
+Medical,68a0301b10ff89cfd70073c6,Dụng cụ Y tế,Allisa Que Thu Thai Nhanh H,allisa que thu thai nhanh h,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.709,Dụng cụ Y tế,ground-truth,0,False
+Medical,68a2e383f5d31ba5e3085431,Dụng cụ Y tế,Pmc Khẩu Trang Y Tế Màu Trà,pmc khẩu trang y tế màu trà,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.868,Dụng cụ Y tế,ground-truth,0,False
+Medical,682e8f2d4706b8b051034e82,Dụng cụ Y tế,Pmc Khau Trang Y Te Mau Xan,pmc khau trang y te mau xan,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.899,Dụng cụ Y tế,ground-truth,0,False
+Medical,68906fb0b5fbbe13230faa4b,Dụng cụ Y tế,Pmc Khẩu Trang Y Tế Màu Xanh,pmc khẩu trang y tế màu xanh,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.882,Dụng cụ Y tế,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Dụng cụ Y tế,Gạc Tiệt Trùng Đóng Pha Lớn 8X9X8Cm Gói 10 Miếng,gạc tiệt trùng đóng pha lớn 8x9x8cm gói,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.694,Dụng cụ Y tế,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Dụng cụ Y tế,Băng Keo Lụa Urgosyval 1.25Cm X 5M,băng keo lụa urgosyval 1 25cm x 5m,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.721,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dụng cụ Y tế,Dr.Papie Gạc Răng Miệng Em,dr papie gạc răng miệng em,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.825,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dụng cụ Y tế,Pmc Khẩu Trang Soft-Fit,pmc khẩu trang soft-fit,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.812,Dụng cụ Y tế,ground-truth,0,False
+Medical,673858d8454318d3430ab225,Dụng cụ Y tế,Khan Uot N.Lon Quick Nurse50M,khan uot n lon quick nurse50m,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.638,Dụng cụ Y tế,ground-truth,0,False
+Medical,67408735a9b2e83130072a3e,Dụng cụ Y tế,Khau Trang Y Te Mau Vang,khau trang y te mau vang,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.877,Dụng cụ Y tế,ground-truth,0,False
+Medical,679485ab3e14986c600a61a7,Dụng cụ Y tế,Urgo Wasshroof 30 Mieng - Bang Ca Nhan It Tham Nuoc,urgo wasshroof 30 mieng - bang ca nhan it tham nuoc,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.723,Dụng cụ Y tế,ground-truth,0,False
+Medical,674e7030701334f5d90490e0,Dụng cụ Y tế,Máy Đo Huyết Áp Bắp Tay Tự Động And Ua-1020 Afib - Cảnh Báo Đột Quỵ,máy đo huyết áp bắp tay tự động and ua-1020 afib - cảnh báo đột quỵ,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.616,Dụng cụ Y tế,ground-truth,0,False
+Medical,6738a4b9030eedb74a0b0145,Dụng cụ Y tế,Pvn20364 Tui Chuom Am Nsd24112 800Ml,tui chuom am,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.694,Dụng cụ Y tế,ground-truth,0,False
+Medical,679485ab3e14986c600a61a7,Dụng cụ Y tế,Khau Trang Y Te Anyguard Senior Khuep Hq,khau trang y te anyguard senior khuep hq,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.812,Dụng cụ Y tế,ground-truth,0,False
+Medical,6738241af0626a9b470be2f2,Dụng cụ Y tế,Urgosval 2.5Cmx5M (Strong Adhesive Tape) - Băng Keo Lụa,urgosval 2 5cmx5m strong adhesive tape - băng keo lụa,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.714,Dụng cụ Y tế,ground-truth,0,False
+Medical,6738241af0626a9b470be2f2,Dụng cụ Y tế,Urgo Family 2Cm X 6Cm - Băng Cá Nhân 5+5 Miếng,urgo family 2cm x 6cm - băng cá nhân 5+,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.722,Dụng cụ Y tế,ground-truth,0,False
+Medical,673746f4bef12285b40fb794,Dụng cụ Y tế,Pmc Gac Tiet Trung 8X10Cm,pmc gac tiet trung 8x10cm,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.734,Dụng cụ Y tế,ground-truth,0,False
+Medical,673746f4bef12285b40fb794,Dụng cụ Y tế,Urgopor Bang Keo Giay,urgopor bang keo giay,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.691,Dụng cụ Y tế,ground-truth,0,False
+Medical,646b7058b7d6faddab0a5472,Dụng cụ Y tế,Urgotul 15Cm X 20Cm 10 Miếng - Gac Lưới Vô Trùng Chống Dính,urgotul 15cm x 20cm - gac lưới vô trùng chống dính,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.664,Dụng cụ Y tế,ground-truth,0,False
+Medical,6738302ef1e23b66110f0287,Dụng cụ Y tế,Khau Trang Y Te Safefit 4 Lop Mau,khau trang y te safefit 4 lop mau,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.844,Dụng cụ Y tế,ground-truth,0,False
+Medical,6738302ef1e23b66110f0287,Dụng cụ Y tế,Khau Trang Y Te Ilt 4 Lop Trang Liworldco,khau trang y te ilt 4 lop trang liworldco,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.858,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dụng cụ Y tế,Syringe 10Cc- Vikimco 100Pcs/Box (Bom Tiem),syringe 10cc- vikimco 100pcs/box bom tiem,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.677,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dụng cụ Y tế,Gauze Sterile- 10X10Cm 12Plies (Gac Tiet Trung-Gpcs/Pkt),gauze sterile- 10x10cm 12plies gac tiet trung-gpcs/pkt,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.696,Dụng cụ Y tế,ground-truth,0,False
+Medical,67380c2bf3ccefe0d8060769,Dụng cụ Y tế,Tui Chuom Ni Cappybara Nho,tui chuom ni cappybara nho,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.724,Dụng cụ Y tế,ground-truth,0,False
+Medical,678f02534c1e64b6380b67f2,Dụng cụ Y tế,Que Thu Thai - Safefti Pregnancy Test Kit,que thu thai - safefti pregnancy test kit,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.707,Dụng cụ Y tế,ground-truth,0,False
+Medical,646f04a3bed136fdd408f996,Dụng cụ Y tế,Pmc Khẩu Trang 3D Trẻ Em Hộp,pmc khẩu trang 3d trẻ em hộp,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.855,Dụng cụ Y tế,ground-truth,0,False
+Medical,646f04a3bed136fdd408f996,Dụng cụ Y tế,Tặng Pmc Khẩu Trang 3D Trẻ Hộp,tặng pmc khẩu trang 3d trẻ hộp,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.827,Dụng cụ Y tế,ground-truth,0,False
+Medical,674099f57bb4a48f3d05ebea,Dụng cụ Y tế,Gạc Răng Miệng Dr. Papie 30 Miếng - Hộp Đôi,gạc răng miệng dr papie - hộp đôi,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.78,Dụng cụ Y tế,ground-truth,0,False
+Medical,677fe62cfb893d87d901344c,Dụng cụ Y tế,Bang Ca Nhan Urgo Durable 102M/H,bang ca nhan urgo durable 102m/h,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.771,Dụng cụ Y tế,ground-truth,0,False
+Medical,6407d94ee3693f15520ea4f5,Dụng cụ Y tế,Khau Trang Y Te 3 Lop Mien Bac 50 Cai 175*95,khau trang y te 3 lop mien bac 50 cai 175 95,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.802,Dụng cụ Y tế,ground-truth,0,False
+Medical,673605eabb7b4ce39f0c2efb,Dụng cụ Y tế,Bom Tiem 5 25G Vinahankook 100 Cai,bom tiem 5 vinahankook 100 cai,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.683,Dụng cụ Y tế,ground-truth,0,False
+Medical,67678a166e193cb2e90e956f,Dụng cụ Y tế,Bông Y Tế Quick Nurse 25G,bông y tế quick nurse,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.697,Dụng cụ Y tế,ground-truth,0,False
+Medical,673876e8ea88e3612b078260,Dụng cụ Y tế,Gạc Y Tế Tiệt Trùng Bảo Thạch 8Cm X10Cm X 12 Lớp Bịch 10 Miếng,gạc y tế tiệt trùng bảo thạch 8cm x10cm x 12 lớp bịch,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.705,Dụng cụ Y tế,ground-truth,0,False
+Medical,677f6f2e2a65f2b53f047c9c,Dụng cụ Y tế,Bang Ca Nhan Hoat,bang ca nhan hoat,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.758,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Sterimar Nose Hygiene Baby,sterimar nose hygiene baby,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.714,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Sterimar Khan Mat M,sterimar khan mat m,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.705,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Dung dịch vệ sinh/ Y tế,Phytogyno Opodis 100Ml - Dung Dịch Vệ Sinh Phụ Nữ,phytogyno opodis - dung dịch vệ sinh phụ nữ,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.881,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Pmc Dung Dịch Vệ Sinh Phụ Nữ,pmc dung dịch vệ sinh phụ nữ,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.93,Dung dịch vệ sinh,ground-truth,0,False
+Medical,68d0b02df1a1685ae00ee19c,Dung dịch vệ sinh/ Y tế,Pnc Nacl 0.9% 500Ml,pnc nacl 0 9,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.604,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67408735a9b2e83130072a3e,Dung dịch vệ sinh/ Y tế,Dvopsn Lactacyd Odor Fresh 150Ml,dvopsn lactacyd odor fresh,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.766,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Dung dịch vệ sinh/ Y tế,Natri Clorid 0.9% Traphaco 10Ml,natri clorid 0 9 traphaco,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.6,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Da Huong Dung Dich Ve Sinh,da huong dung dich ve sinh,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.876,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Sterimar Blocked Nose Baby,sterimar blocked nose baby,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.768,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Pmc Dung Dich Ve Sinh Phu N,pmc dung dich ve sinh phu n,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.933,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Dung dịch vệ sinh/ Y tế,Sterimar Hygiene And Comfort 50Ml Xit Ve Sinh Mui Cho Tre Em Tu 3 Tuoi - Nguoi Lon,sterimar hygiene and comfort xit ve sinh mui cho tre em tu 3 tuoi - nguoi lon,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.744,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6735e0e893de6838750e9c9e,Dung dịch vệ sinh/ Y tế,Ddvspn Lactacyd Ngày Dài Tươi Mát 15,ddvspn lactacyd ngày dài tươi mát 15,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.775,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67374354b508e677120feef8,Dung dịch vệ sinh/ Y tế,Dung Dich Ve Sinh Phu Nu Femfresh Intimate,dung dich ve sinh phu nu femfresh intimate,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.899,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6736aa0be34b4d57540b586c,Dung dịch vệ sinh/ Y tế,Sterimar Hygiene Baby 50Ml - Xịt Vệ Sinh Mũi Cho Trẻ Em Từ 0-3 Tuổi,sterimar hygiene baby - xịt vệ sinh mũi cho trẻ em từ 0-3 tuổi,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.722,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67363dc0d0940e8c7709179c,Dung dịch vệ sinh/ Y tế,Cồn 90 Độ Vĩnh Phúc 500Ml,cồn 90 độ vĩnh phúc,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.679,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6738241af0626a9b470be2f2,Dung dịch vệ sinh/ Y tế,Lactacyd Odor Fresh Sanofi 250Ml - Dung Dịch Vệ Sinh Phụ Nữ Ngăn Mùi Suốt 24H,lactacyd odor fresh sanofi - dung dịch vệ sinh phụ nữ ngăn mùi suốt 24h,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.906,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Sterimar Blocked Nose Baby-Nasal Spray Bottle 50Ml-Hypertonic Seawater Solution+Cu+Mn,sterimar blocked nose baby-nasal spray bottle -hypertonic seawater solution+cu+mn,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.692,Dung dịch vệ sinh,ground-truth,0,False
+Medical,673746f4bef12285b40fb794,Dung dịch vệ sinh/ Y tế,Nuoc Oxy Gia Vp 3% 60Ml,nuoc oxy gia vp 3,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.761,Dung dịch vệ sinh,ground-truth,0,False
+Medical,673746f4bef12285b40fb794,Dung dịch vệ sinh/ Y tế,Rohto Nosewash Spray Dd Xit,rohto nosewash spray dd xit,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.613,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6736aa0be34b4d57540b586c,Dung dịch vệ sinh/ Y tế,Dvson.Lactacyd Proussion3Cc,dvson lactacyd proussion3cc,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.755,Dung dịch vệ sinh,ground-truth,0,False
+Medical,646b7058b7d6faddab0a5472,Dung dịch vệ sinh/ Y tế,Natri Clorid 0.9 Vinh Phuc Smiles 1100Ml - Nuoc Muoi,natri clorid 0 9 vinh phuc smiles - nuoc muoi,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.749,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6736b38f83d0af982908cd6d,Dung dịch vệ sinh/ Y tế,Ddvspn Lactacyd Sofrs&Stlk15,ddvspn lactacyd sofrs&stlk15,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.805,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67363423a7add49edd0cd2a5,Dung dịch vệ sinh/ Y tế,Ddvspn Lactacyd Cool,ddvspn lactacyd cool,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.827,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Pmc Dung Dich Ve Sinh Mui B,pmc dung dich ve sinh mui b,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.928,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dung dịch vệ sinh/ Y tế,Tang Pmc Dung Dich Ve Sinh,tang pmc dung dich ve sinh,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.903,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6741cab6495362808f0acd38,Dung dịch vệ sinh/ Y tế,Pmc Dung Dich Ve Sinh Mui B,pmc dung dich ve sinh mui b,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.928,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6737fd65f0e88722cd04a71f,Dung dịch vệ sinh/ Y tế,Lactacyd Ddvs Phu Nu Ngay D,lactacyd ddvs phu nu ngay d,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.763,Dung dịch vệ sinh,ground-truth,0,False
+Medical,673605eabb7b4ce39f0c2efb,Dung dịch vệ sinh/ Y tế,Nuoc Oxy Gia Vinh Phuc 3% 60Ml,nuoc oxy gia vinh phuc 3,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.82,Dung dịch vệ sinh,ground-truth,0,False
+Medical,673eb96904a195fed8067c88,Dung dịch vệ sinh/ Y tế,Naphazolin 0.05% Danapha H/5Ml,naphazolin 0 05 danapha h/,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.603,Dung dịch vệ sinh,ground-truth,0,False
+Medical,673876e8ea88e3612b078260,Dung dịch vệ sinh/ Y tế,Natri Clorid 0.9% Ft 500Ml Dung Dịch Vô Khuẩn,natri clorid 0 9 ft dung dịch vô khuẩn,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.711,Dung dịch vệ sinh,ground-truth,0,False
+Medical,67374354b508e677120feef8,Dung dịch vệ sinh/ Y tế,Dung Dịch Vệ Sinh Phụ Nữ Femfresh Intima Skin Care Daily Wash 250Ml,dung dịch vệ sinh phụ nữ femfresh intima skin care daily wash,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.841,Dung dịch vệ sinh,ground-truth,0,False
+Medical,674023ad69633f84030a1c07,Dung dịch vệ sinh/ Y tế,Dung Dịch Vệ Sinh Phụ Nữ Ace Vv Hương Mới (*),dung dịch vệ sinh phụ nữ ace vv hương mới,Dung dịch vệ sinh,Dung dịch vệ sinh,0.75,Dung dịch vệ sinh,0.854,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6735ff007bf8a388030c762a,Dung dịch vệ sinh/ Y tế,Natri Clorid 0.9 Vinh Phuc Smiles 600Ml - Nuoc Muoi,natri clorid 0 9 vinh phuc smiles - nuoc muoi,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.749,Dung dịch vệ sinh,ground-truth,0,False
+Medical,673830428a3108e3930908cc,Dung dịch vệ sinh/ Y tế,Sterimar Blocked Nose Baby 50Ml - Xit Nghet Mui Cho Tre Em Tu 3 Thang - 3 Tuoi,sterimar blocked nose baby - xit nghet mui cho tre em tu 3 thang - 3 tuoi,Dung dịch vệ sinh,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.739,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6736187f60a1f9cf2801f415,Dung dịch vệ sinh/ Y tế,Dung Dich Ve Sinh Bang Lanh Sach Gau 801Ml,dung dich ve sinh bang lanh sach gau,Dung dịch vệ sinh,Khác,0.0,Dung dịch vệ sinh,0.842,Dung dịch vệ sinh,ground-truth,0,False
+Medical,6736bb852bd1c22bc3070276,Thực phẩm chức năng,Thuc Pham Bao Ve Suc Khoe Kids Smart Drops Dha,thuc pham bao ve suc khoe kids smart drops dha,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.87,Thực phẩm chức năng,ground-truth,0,False
+Medical,6736bb852bd1c22bc3070276,Thực phẩm chức năng,Thuc Pham Bao Ve Suc Khoe Fitobimbi Sonno,thuc pham bao ve suc khoe fitobimbi sonno,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.849,Thực phẩm chức năng,ground-truth,0,False
+Medical,674700bc4b2dc6e4d10f7f0d,Thực phẩm chức năng,Vitamin C 500Mg Khapharco 10X10,vitamin c 500mg khapharco 10x10,Thực phẩm chức năng,Khác,0.0,Thuốc,0.513,Thực phẩm chức năng,ground-truth,0,False
+Medical,673c55f6f72d41d9e40d9a66,Thực phẩm chức năng,Thuc Pham Bao Ve Suc Khoe Dimao Oral Spray (Vitamin,thuc pham bao ve suc khoe dimao oral spray vitamin,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.86,Thực phẩm chức năng,ground-truth,0,False
+Medical,6736e91d58cfd581e30fb511,Thực phẩm chức năng,Thuc Pham Bao Ve Suc Khoe Lineabon K2 + D3,thuc pham bao ve suc khoe lineabon k2 + d3,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.838,Thực phẩm chức năng,ground-truth,0,False
+Medical,674727b882ba5d4db3073522,Thực phẩm chức năng,Livespo Dia 30 Men Vi Sinh,livespo dia 30 men vi sinh,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.674,Thực phẩm chức năng,ground-truth,0,False
+Medical,689eb5bb08d8148e4a0384b4,Thực phẩm chức năng,Livespo Colon Bổ Sung Nen V,livespo colon bổ sung nen v,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.622,Thực phẩm chức năng,ground-truth,0,False
+Medical,68a0182c452e6c7a2109187b,Thực phẩm chức năng,Thực Phẩm Bảo Vệ Sức Khỏe Healthy Care Fish Oil 1000Mg Omega 3 Hộp 400 Viên,thực phẩm bảo vệ sức khỏe healthy care fish oil 1000mg omega,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.843,Thực phẩm chức năng,ground-truth,0,False
+Medical,6736ec8a274b289126076488,Thực phẩm chức năng,Pediakid 22 Vitamin 125Ml,pediakid 22 vitamin,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.648,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thực phẩm chức năng,Vitamin C 1000Mg + Zinc,vitamin c 1000mg + zinc,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.655,Thực phẩm chức năng,ground-truth,0,False
+Medical,6738302ef1e23b66110f0287,Thực phẩm chức năng,Vien Ngam Strepsils Orange With Vitamin C 2X12,vien ngam strepsils orange with vitamin c 2x12,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.617,Thực phẩm chức năng,ground-truth,0,False
+Medical,6738302ef1e23b66110f0287,Thực phẩm chức năng,Berocca Bayer 10V,berocca bayer 10v,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.595,Thực phẩm chức năng,ground-truth,0,False
+Medical,67c8540c428f8a950d06364b,Thực phẩm chức năng,Calcium Corbiere Kids Extra Sanofi 5Ml,calcium corbiere kids extra sanofi,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.602,Thực phẩm chức năng,ground-truth,0,False
+Medical,67c8540c428f8a950d06364b,Thực phẩm chức năng,Vien Uong Bo Sung Vitamin C 500Mg Nature'S Bounty 100V,vien uong bo sung vitamin c 500mg nature's bounty 100v,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.733,Thực phẩm chức năng,ground-truth,0,False
+Medical,674801bb2e6252d98d0bb4fe,Thực phẩm chức năng,Livespo Clausy 25 Ong X 5Ml - Bao Tu Loi Khuan Khang Da Khang Sinh,livespo clausy 25 ong x - bao tu loi khuan khang da khang sinh,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.625,Thực phẩm chức năng,ground-truth,0,False
+Medical,67369e09c5753ecdeb08e139,Thực phẩm chức năng,Hokaido Bo 5 Hop Tpcn 0.5-1-0.5-1-2-2.5L,hokaido bo 5 hop tpcn 0 5-1-0 5-1-2-,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.687,Thực phẩm chức năng,ground-truth,0,False
+Medical,6735cb281340d89c5b07fbf9,Thực phẩm chức năng,"San Pham Ho Tro Suc Khoe, M/L (30Pcs) , Sl: 1",san pham ho tro suc khoe m/l 30pcs sl 1,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.751,Thực phẩm chức năng,ground-truth,0,False
+Medical,6736845bf150fd02f000ab49,Thực phẩm chức năng,Vnm - Scu Probiotic D,vnm - scu probiotic d,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.713,Thực phẩm chức năng,ground-truth,0,False
+Medical,677565dccad46983650e067d,Thực phẩm chức năng,Vien Uong Bo Sung Vitamin C 500Mg Nature'S Bounty 100V,vien uong bo sung vitamin c 500mg nature's bounty 100v,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.733,Thực phẩm chức năng,ground-truth,0,False
+Medical,6737101ee4b6652240022e48,Thực phẩm chức năng,Vnm Collagen Viet,vnm collagen viet,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.801,Thực phẩm chức năng,ground-truth,0,False
+Medical,6739d544074e345de30a2743,Thực phẩm chức năng,Sc Vnm Collagen Viet,sc vnm collagen viet,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.794,Thực phẩm chức năng,ground-truth,0,False
+Medical,67481fec48d57bcee706d563,Thực phẩm chức năng,Banh Gao Dinh Duong Kun Canxi 140G (Xanh Duong 75093) (Goi),banh gao dinh duong kun canxi xanh duong 75093 goi,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.668,Thực phẩm chức năng,ground-truth,0,False
+Medical,674099f57bb4a48f3d05ebea,Thực phẩm chức năng,Men Vi Sinh 10 Chủng Bioamicus,men vi sinh 10 chủng bioamicus,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.709,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Công Khám,công khám,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.839,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Xét Nghiệm,xét nghiệm,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.666,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Khám Tổng Quát,khám tổng quát,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.775,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Tổng Phân Tích Tế Bào Máu Ngoại Vi (Bằng Máy Đếm Laser),tổng phân tích tế bào máu ngoại vi bằng máy đếm laser,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.762,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Định Lượng Glucose (Máu),định lượng glucose máu,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.853,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Định Lượng Creatinin (Máu),định lượng creatinin máu,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.88,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Định Lượng Hdl-C (High Density Lipoprotein Cholesterol) (Máu),định lượng hdl-c high density lipoprotein cholesterol máu,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.802,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Định Lượng Triglycerid (Máu) (Máu),định lượng triglycerid máu máu,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.865,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Định Lượng Cholesterol Toàn Phần (Máu),định lượng cholesterol toàn phần máu,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.824,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Định Lượng Acid Uric (Máu),định lượng acid uric máu,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.886,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Tổng Phân Tích Nước Tiểu (Bằng Máy Tự Động),tổng phân tích nước tiểu bằng máy tự động,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.723,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Chụp Xquang Ngực Thẳng,chụp xquang ngực thẳng,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.666,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Siêu Âm Vú,siêu âm vú,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.817,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Siêu Âm Bụng,siêu âm bụng,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.817,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Siêu Âm Tim,siêu âm tim,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.849,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Định Lượng Ure Máu (Máu),định lượng ure máu máu,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.886,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Đo Điện Tim Thường (Ecg),đo điện tim thường ecg,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.668,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Siêu Âm Tuyến Giáp,siêu âm tuyến giáp,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.795,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Khám Nhi (Nd2),khám nhi nd2,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.862,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Phi Kham/Consultation Fee,phi kham/consultation fee,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.774,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Cong Thuc Mau Fbc/Full Blood Count,cong thuc mau fbc/full blood count,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.722,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Xet Nghiem Nhanh Benh Ho Hap 5 Trong 1 (Rsv+Cox2+Clu+Cb19+H1+Rsva Dot) / Respiratory:5-In-1 Antigen Rapid Test,xet nghiem nhanh benh ho hap 5 trong 1 rsv+cox2+clu+cb19+h1+rsva dot / respiratory 5-in-1 antigen rapid test,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.679,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Lay Mau Xet Nghiem/Blood Sampling Collect,lay mau xet nghiem/blood sampling collect,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.733,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Kham Nhi (Nd2),kham nhi nd2,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.83,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Khám Nhi (Nđ2),khám nhi nđ2,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.806,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Kham Ngoai,kham ngoai,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.862,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Dinh Luong Acid Uric [Mau],dinh luong acid uric mau,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.877,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Dinh Luong Creatinin [Mau],dinh luong creatinin mau,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.875,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Dinh Luong Ure Mau [Mau],dinh luong ure mau mau,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.876,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Tong Phan Tich Te Bao Mau Ngoai Vi,tong phan tich te bao mau ngoai vi,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.806,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Chup X-Quang Xuong Co Chan Thang,chup x-quang xuong co chan thang,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.758,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Kham Ngoai,kham ngoai,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.862,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Dinh Luong Acid Uric [Mau],dinh luong acid uric mau,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.877,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Dinh Luong Creatinin [Mau],dinh luong creatinin mau,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.875,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Dinh Luong Ure Mau [Mau],dinh luong ure mau mau,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.876,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,Tong Phan Tich Te Bao Man Ngoai,tong phan tich te bao man ngoai,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.758,Dịch vụ Y tế,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Dịch vụ y tế,"Chup X-Quang Xuong Co Chan Thang, Nghieng Hoac Chech (8 Hoac 2 Phim)",chup x-quang xuong co chan thang nghieng hoac chech 8 hoac 2 phim,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.759,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Phi Kham Nhi - Ngoai Gio/ Paediatric Consultation Fee - Out Of Office Hour,phi kham nhi - ngoai gio/ paediatric consultation fee - out of office hour,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.813,Dịch vụ Y tế,ground-truth,0,False
+Medical,673854dc0936bba1c60e0c0f,Dịch vụ y tế,Cong Kham Vaccine,cong kham vaccine,Dịch vụ Y tế,Khác,0.0,Dịch vụ Y tế,0.758,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ y tế,Công Khám,công khám,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.839,Dịch vụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Sterimar Nose Hygiene Baby,sterimar nose hygiene baby,Thuốc,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.714,Thuốc,ground-truth,0,False
+Medical,68d6a95c2f7243bd8e04e0e0,Thuốc,Natri Clorid Nho Mat Mui,natri clorid nho mat mui,Thuốc,Khác,0.0,Dụng cụ Y tế,0.461,Thuốc,ground-truth,0,False
+Medical,689089abbdd8621d5f08b58a,Thuốc,Viên Ngậm Cho Bé Vị Cam Bipp C Dhg Pharma 35 Gói,viên ngậm cho bé vị cam bipp c dhg pharma,Thuốc,Khác,0.0,Thuốc,0.532,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,V.Rohto Vitamin 13Ml,v rohto vitamin,Thuốc,Khác,0.0,Thuốc,0.697,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Natri Clorid Nhỏ Mắt Mui,natri clorid nhỏ mắt mui,Thuốc,Khác,0.0,Thuốc,0.583,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Sterimar Blocked Nose Baby,sterimar blocked nose baby,Thuốc,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.768,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Sterimar Hygiene And Comfort 50Ml Xit Ve Sinh Mui Cho Tre Em Tu 3 Tuoi - Nguoi Lon,sterimar hygiene and comfort xit ve sinh mui cho tre em tu 3 tuoi - nguoi lon,Thuốc,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.744,Thuốc,ground-truth,0,False
+Medical,6738302ef1e23b66110f0287,Thuốc,Vien Ngam Strepsils Orange With Vitamin C 2X12,vien ngam strepsils orange with vitamin c 2x12,Thuốc,Khác,0.0,Thực phẩm chức năng,0.617,Thuốc,ground-truth,0,False
+Medical,6738302ef1e23b66110f0287,Thuốc,Vien Ngam Strepsils Honey And Lemon 2X12,vien ngam strepsils honey and lemon 2x12,Thuốc,Khác,0.0,Thuốc,0.547,Thuốc,ground-truth,0,False
+Medical,6737101ee4b6652240022e48,Thuốc,Strepsils Throat Irritation,strepsils throat irritation,Thuốc,Khác,0.0,Thuốc,0.54,Thuốc,ground-truth,0,False
+Medical,67c8540c428f8a950d06364b,Thuốc,Avamys 27 Smcg Gsk 120 Dose,avamys 27 smcg gsk 120 dose,Thuốc,Khác,0.0,Thuốc,0.555,Thuốc,ground-truth,0,False
+Medical,6736aa0be34b4d57540b586c,Thuốc,Sterimar Hygiene Baby 50Ml - Xịt Vệ Sinh Mũi Cho Trẻ Em Từ 0-3 Tuổi,sterimar hygiene baby - xịt vệ sinh mũi cho trẻ em từ 0-3 tuổi,Thuốc,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.722,Thuốc,ground-truth,0,False
+Medical,6738241af0626a9b470be2f2,Thuốc,V.Rohto Vitamin 13Ml,v rohto vitamin,Thuốc,Khác,0.0,Thuốc,0.697,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,"Nasonex Nasal Spray 0,05% Bottle 60 Doses-Mometasone",nasonex nasal spray 0 05 bottle 60 doses-mometasone,Thuốc,Khác,0.0,Thuốc,0.579,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Sterimar Blocked Nose Baby-Nasal Spray Bottle 50Ml-Hypertonic Seawater Solution+Cu+Mn,sterimar blocked nose baby-nasal spray bottle -hypertonic seawater solution+cu+mn,Thuốc,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.692,Thuốc,ground-truth,0,False
+Medical,673746f4bef12285b40fb794,Thuốc,Rohto Nosewash Spray Dd Xit,rohto nosewash spray dd xit,Thuốc,Khác,0.0,Dung dịch vệ sinh,0.613,Thuốc,ground-truth,0,False
+Medical,6741cab6495362808f0acd38,Thuốc,"Nazoster 0,05% Nasal Spray",nazoster 0 05 nasal spray,Thuốc,Khác,0.0,Thuốc,0.525,Thuốc,ground-truth,0,False
+Medical,67382de150e4047f5104fdfd,Thuốc,V.Rohto Vitamin 13Ml,v rohto vitamin,Thuốc,Khác,0.0,Thuốc,0.697,Thuốc,ground-truth,0,False
+Medical,676257e62d2152bdc20cf253,Thuốc,Pmc Vien Ngam Herbal Lozeng,pmc vien ngam herbal lozeng,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.555,Thuốc,ground-truth,0,False
+Medical,651ccefea4d1db690006ba12,Thuốc,Vien Ngam Khong Duong Hobezut Vinacare,vien ngam khong duong hobezut vinacare,Thuốc,Khác,0.0,Thuốc,0.541,Thuốc,ground-truth,0,False
+Medical,67363423a7add49edd0cd2a5,Thuốc,Dung Dịch Nhỏ Mắt V.Rohto Dryeye 13Ml Bổ Sung Nước Mắt Nhân Tạo,dung dịch nhỏ mắt v rohto dryeye bổ sung nước mắt nhân tạo,Thuốc,Khác,0.0,Thuốc,0.519,Thuốc,ground-truth,0,False
+Medical,673eb96904a195fed8067c88,Thuốc,Naphazolin 0.05% Danapha H/5Ml,naphazolin 0 05 danapha h/,Thuốc,Khác,0.0,Dung dịch vệ sinh,0.603,Thuốc,ground-truth,0,False
+Medical,673830428a3108e3930908cc,Thuốc,Sterimar Blocked Nose Baby 50Ml - Xit Nghet Mui Cho Tre Em Tu 3 Thang - 3 Tuoi,sterimar blocked nose baby - xit nghet mui cho tre em tu 3 thang - 3 tuoi,Thuốc,Dụng cụ Y tế,1.0,Dung dịch vệ sinh,0.739,Thuốc,ground-truth,0,False
+Medical,673743579682cea4f0088547,Thuốc,V.Rohto Vitamin 13Ml,v rohto vitamin,Thuốc,Khác,0.0,Thuốc,0.697,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Siro Ho, Bổ Phế Labebe 120Ml",siro ho bổ phế labebe,Thuốc,Thuốc,1.0,Thuốc,0.794,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Siro Ho, Bổ Phế Labbee 120Ml",siro ho bổ phế labbee,Thuốc,Thuốc,1.0,Thuốc,0.776,Thuốc,ground-truth,0,False
+Medical,689eb5bb08d8148e4a0384b4,Thuốc,Livespo Colon Bổ Sung Nen V,livespo colon bổ sung nen v,Thuốc,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.622,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Siro Ho, Bổ Phế Labee 120Ml",siro ho bổ phế labee,Thuốc,Thuốc,1.0,Thuốc,0.776,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Siro Ho, Bổ Phế Bồi Mẫu Forte Mom And Baby Tắt Thành 125Ml",siro ho bổ phế bồi mẫu forte mom and baby tắt thành,Thuốc,Thuốc,1.0,Thuốc,0.768,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Siro Ho, Bổ Phế Bổ Máu Forte Mom And Baby Tất Thành 125Ml",siro ho bổ phế bổ máu forte mom and baby tất thành,Thuốc,Thuốc,1.0,Thuốc,0.727,Thuốc,ground-truth,0,False
+Medical,68d0b02df1a1685ae00ee19c,Thuốc,Pnc Nacl 0.9% 500Ml,pnc nacl 0 9,Thuốc,Khác,0.0,Dung dịch vệ sinh,0.604,Thuốc,ground-truth,0,False
+Medical,689089abbdd8621d5f08b58a,Thuốc,Probio Imexpharm 14 Gói,probio imexpharm,Thuốc,Khác,0.0,Thuốc,0.606,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Dược Nam Anatop Pro Siro H,dược nam anatop pro siro h,Thuốc,Thuốc,1.0,Thuốc,0.597,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Siro Ho, Bộ Phế Bồi Mẫu Forte Mom And Baby Tát Thành 125Ml",siro ho bộ phế bồi mẫu forte mom and baby tát thành,Thuốc,Thuốc,1.0,Thuốc,0.709,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Natri Clorid 0.9% Traphaco 10Ml,natri clorid 0 9 traphaco,Thuốc,Khác,0.0,Dung dịch vệ sinh,0.6,Thuốc,ground-truth,0,False
+Medical,6737101ee4b6652240022e48,Thuốc,Pmc Mieng Dan Nong,pmc mieng dan nong,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.632,Thuốc,ground-truth,0,False
+Medical,677f6f2e2a65f2b53f047c9c,Thuốc,Cidetuss Imexpharm 10X10,cidetuss imexpharm 10x10,Thuốc,Khác,0.0,Thuốc,0.791,Thuốc,ground-truth,0,False
+Medical,6736845bf150fd02f000ab49,Thuốc,Salonpas Pain Relief Patch,salonpas pain relief patch,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.575,Thuốc,ground-truth,0,False
+Medical,67380c2bf3ccefe0d8060769,Thuốc,Salonpas Jikabari Mieng Dan,salonpas jikabari mieng dan,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.713,Thuốc,ground-truth,0,False
+Medical,67c8540c428f8a950d06364b,Thuốc,Siro Bo Sung Sat Fer + Multi Hatro 120Ml,siro bo sung sat fer + multi hatro,Thuốc,Thuốc,1.0,Thuốc,0.549,Thuốc,ground-truth,0,False
+Medical,673618ca232d45a2bd02bc96,Thuốc,Tth18900101. Siro Rơ Prospan Đức - Xanh Lá - 100Ml (Chai),siro rơ prospan đức - xanh lá - chai,Thuốc,Thuốc,1.0,Thuốc,0.552,Thuốc,ground-truth,0,False
+Medical,6736187f60a1f9cf2801f415,Thuốc,Salonpas 40 H/100 Cap,salonpas 40 h/100 cap,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.557,Thuốc,ground-truth,0,False
+Medical,674801bb2e6252d98d0bb4fe,Thuốc,Livespo Clausy 25 Ong X 5Ml - Bao Tu Loi Khuan Khang Da Khang Sinh,livespo clausy 25 ong x - bao tu loi khuan khang da khang sinh,Thuốc,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.625,Thuốc,ground-truth,0,False
+Medical,6738a4b9030eedb74a0b0145,Thuốc,Salonpas Jikabari Mieng Dan,salonpas jikabari mieng dan,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.713,Thuốc,ground-truth,0,False
+Medical,673842171403182d62023861,Thuốc,Cidetuss Imexpharm 10X10,cidetuss imexpharm 10x10,Thuốc,Khác,0.0,Thuốc,0.791,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Altussin Syrup Bottle 60Ml-Dextromethorphan+Chlorpheniramine+Sodium Citrate+Ammonium Chloride+Glycerly Guaiacolate,altussin syrup bottle -dextromethorphan+chlorpheniramine+sodium citrate+ammonium chloride+glycerly guaiacolate,Thuốc,Khác,0.0,Thuốc,0.572,Thuốc,ground-truth,0,False
+Medical,646b7058b7d6faddab0a5472,Thuốc,Natri Clorid 0.9 Vinh Phuc Smiles 1100Ml - Nuoc Muoi,natri clorid 0 9 vinh phuc smiles - nuoc muoi,Thuốc,Khác,0.0,Dung dịch vệ sinh,0.749,Thuốc,ground-truth,0,False
+Medical,6739496c2c55c509fa002756,Thuốc,Siro Ho - Otosan Fortuss Cough Syrup,siro ho - otosan fortuss cough syrup,Thuốc,Thuốc,1.0,Thuốc,0.662,Thuốc,ground-truth,0,False
+Medical,6794f73dc2aef5adc2080e7e,Thuốc,Ong Hit Mui Tiger Balm (1 Ong),ong hit mui tiger balm 1 ong,Thuốc,Khác,0.0,Thuốc,0.534,Thuốc,ground-truth,0,False
+Medical,6741cab6495362808f0acd38,Thuốc,Enterogermina Gut Defense 2,enterogermina gut defense 2,Thuốc,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.623,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Thuoc / Drugs/Medicine 10Ml - Nacl + Natri Hyaluronate,thuoc / drugs/medicine - nacl + natri hyaluronate,Thuốc,Thuốc,1.0,Thuốc,0.689,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Thuoc / Drugs/Medicine 60Ml,thuoc / drugs/medicine,Thuốc,Thuốc,1.0,Thuốc,0.733,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Thuoc/ Drugs/Medicine 50Ml,thuoc/ drugs/medicine,Thuốc,Thuốc,1.0,Thuốc,0.733,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Thuoc/ Drugs/Medicine 10Ml Nacl Infusion,thuoc/ drugs/medicine nacl infusion,Thuốc,Thuốc,1.0,Thuốc,0.689,Thuốc,ground-truth,0,False
+Medical,678f02534c1e64b6380b67f2,Thuốc,Enterogermina 2 Ty Sanofi 2X10 5Ml,enterogermina 2 ty sanofi 2x10,Thuốc,Thực phẩm chức năng,0.85,Thuốc,0.634,Thuốc,ground-truth,0,False
+Medical,6741cab6495362808f0acd38,Thuốc,Pmc Natri Clorid 500Ml,pmc natri clorid,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.564,Thuốc,ground-truth,0,False
+Medical,6739735d076961b7f907a991,Thuốc,Hoạt Huyết Dưỡng Não Vbp Traphaco 5X20,hoạt huyết dưỡng não vbp traphaco 5x20,Thuốc,Khác,0.0,Thuốc,0.63,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Siro Ho, Bo Phe Boi Mau Forte Mom And Baby Tat Thanh 12Sml",siro ho bo phe boi mau forte mom and baby tat thanh 12sml,Thuốc,Thuốc,1.0,Thuốc,0.63,Thuốc,ground-truth,0,False
+Medical,673876e8ea88e3612b078260,Thuốc,Natri Clorid 0.9% Ft 500Ml Dung Dịch Vô Khuẩn,natri clorid 0 9 ft dung dịch vô khuẩn,Thuốc,Khác,0.0,Dung dịch vệ sinh,0.711,Thuốc,ground-truth,0,False
+Medical,6738a4b9030eedb74a0b0145,Thuốc,Pmc Natri Clorid 500Ml,pmc natri clorid,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.564,Thuốc,ground-truth,0,False
+Medical,67587b1b9a09e9e5470506be,Thuốc,Cidetuss Imexpharm 10X10,cidetuss imexpharm 10x10,Thuốc,Khác,0.0,Thuốc,0.791,Thuốc,ground-truth,0,False
+Medical,673763cd34d5450d8d030284,Thuốc,Enterogermina 5Ml,enterogermina,Thuốc,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.393,Thuốc,ground-truth,0,False
+Medical,67405c4dad5794ab150708a8,Thuốc,Pmc Natri Clorid 500Ml,pmc natri clorid,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.564,Thuốc,ground-truth,0,False
+Medical,677a3a480dd2edf80400a6f6,Thuốc,Cidetuss Imexpharm 10X10,cidetuss imexpharm 10x10,Thuốc,Khác,0.0,Thuốc,0.791,Thuốc,ground-truth,0,False
+Medical,67678a166e193cb2e90e956f,Thuốc,Thuoc Ho Nguoi Lon Opc 90Ml,thuoc ho nguoi lon opc,Thuốc,Thuốc,1.0,Thuốc,0.612,Thuốc,ground-truth,0,False
+Medical,6736aa089441977aa60b9ecd,Thuốc,Cao Ich Mau Opc 180Ml,cao ich mau opc,Thuốc,Khác,0.0,Thuốc,0.481,Thuốc,ground-truth,0,False
+Medical,6735ff007bf8a388030c762a,Thuốc,Natri Clorid 0.9 Vinh Phuc Smiles 600Ml - Nuoc Muoi,natri clorid 0 9 vinh phuc smiles - nuoc muoi,Thuốc,Khác,0.0,Dung dịch vệ sinh,0.749,Thuốc,ground-truth,0,False
+Medical,67380c2bf3ccefe0d8060769,Thuốc,"Thuocol Children'S Susp, 60",thuocol children's susp 60,Thuốc,Khác,0.0,Thuốc,0.581,Thuốc,ground-truth,0,False
+Medical,67433b7f5b2b7230f106e7a8,Thuốc,Hoạt Huyết Dưỡng Não Vbp Traphaco 5X20,hoạt huyết dưỡng não vbp traphaco 5x20,Thuốc,Khác,0.0,Thuốc,0.63,Thuốc,ground-truth,0,False
+Medical,674727b882ba5d4db3073522,Thuốc,Livespo Dia 30 Men Vi Sinh,livespo dia 30 men vi sinh,Thuốc,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.674,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Augmentin Bd Tab 625Mg,augmentin bd tab 625mg,Thuốc,Thuốc,1.0,Thuốc,0.713,Thuốc,ground-truth,0,False
+Medical,6738302ef1e23b66110f0287,Thuốc,Cefixim 200Mg Cophavina 2X10,cefixim 200mg cophavina 2x10,Thuốc,Khác,0.0,Thuốc,0.73,Thuốc,ground-truth,0,False
+Medical,673c284177f072fe8108297c,Thuốc,Augmentin 625Mg Gsk 2X7,augmentin 625mg gsk 2x7,Thuốc,Thuốc,1.0,Thuốc,0.621,Thuốc,ground-truth,0,False
+Medical,673842171403182d62023861,Thuốc,Cefixim 200Mg Cophavina 2X10,cefixim 200mg cophavina 2x10,Thuốc,Khác,0.0,Thuốc,0.73,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Cefixim 50Mg Vidipha 10 Goi,cefixim 50mg vidipha 10 goi,Thuốc,Khác,0.0,Thuốc,0.603,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Cefixim 50Mg Vidipha 10 Gói Sáng 1 Gói,Trưa 1 Gói,Chiều 1 Gói,Sau Ăn Hapacol Flu 250Mg Dhg 24 Gói Sáng 1 Gói,Chiều 1 Gói,Sau Ăn Cách Nhau 10 Tiếng Prednison 5Mg Domesco 10X10 Sáng 1 Viên,Chiều 1 Viên,Sau Ăn Acehasan 100Mg 30 Gói Sáng 1 Gói,Chiều 1 Gói,Sau Ăn",cefixim 50mg vidipha sáng trưa chiều sau ăn hapacol flu 250mg dhg sáng chiều sau ăn cách nhau 10 tiếng prednison 5mg domesco 10x10 sáng chiều sau ăn acehasan 100mg sáng chiều sau ăn,Thuốc,Thuốc,1.0,Thuốc,0.718,Thuốc,ground-truth,0,False
+Medical,673858d8454318d3430ab225,Thuốc,Augmentin 1G (Amoxicillin & Clavulanate) H2Vi X7V,augmentin amoxicillin & clavulanate h2vi x7v,Thuốc,Thuốc,1.0,Thuốc,0.57,Thuốc,ground-truth,0,False
+Medical,6736dbfc70221a573f0733a7,Thuốc,Lazibet Mr 60 - Bidiphar,lazibet mr 60 - bidiphar,Thuốc,Khác,0.0,Thuốc,0.604,Thuốc,ground-truth,0,False
+Medical,67360d947e372967fc0b0d67,Thuốc,Augmentin Bd Tab 625Mg,augmentin bd tab 625mg,Thuốc,Thuốc,1.0,Thuốc,0.713,Thuốc,ground-truth,0,False
+Medical,67380c2bf3ccefe0d8060769,Thuốc,Ciprofloxacin 0.3% Bidiphar 5Ml,ciprofloxacin 0 3 bidiphar,Thuốc,Khác,0.0,Thuốc,0.565,Thuốc,ground-truth,0,False
+Medical,67587b1b9a09e9e5470506be,Thuốc,Cefixim 200Mg Cophavina 2X10,cefixim 200mg cophavina 2x10,Thuốc,Khác,0.0,Thuốc,0.73,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Hapacol 150Mg,hapacol 150mg,Thuốc,Thuốc,1.0,Thuốc,0.63,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Tăng Pmc Mieng Dan Ha Sot C,tăng pmc mieng dan ha sot c,Thuốc,Dụng cụ Y tế,1.0,Thuốc,0.654,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Dầu Gió Lăn Kimagnew Agimexpharm Giảm Đau, Gió Ahml",dầu gió lăn kimagnew agimexpharm giảm đau gió ahml,Thuốc,Khác,0.0,Thuốc,0.606,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Hapacol Flu 250Mg Dhg 24 Goi,hapacol flu 250mg dhg 24 goi,Thuốc,Thuốc,1.0,Thuốc,0.737,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Acehasan 100Mg 30 Goi,acehasan 100mg 30 goi,Thuốc,Khác,0.0,Thuốc,0.679,Thuốc,ground-truth,0,False
+Medical,67728272669af363f1018440,Thuốc,Hapacol 650Mg Dhg 10X5,hapacol 650mg dhg 10x5,Thuốc,Thuốc,1.0,Thuốc,0.703,Thuốc,ground-truth,0,False
+Medical,6735e0e893de6838750e9c9e,Thuốc,3 Sffd Giảm Đau Gbody Vnm M6M,3 sffd giảm đau gbody vnm m6m,Thuốc,Khác,0.0,Thuốc,0.59,Thuốc,ground-truth,0,False
+Medical,6735e0e893de6838750e9c9e,Thuốc,07 Sffd Giảm Đau Gbody Vnm 100M Pm,07 sffd giảm đau gbody vnm 100m pm,Thuốc,Khác,0.0,Thuốc,0.595,Thuốc,ground-truth,0,False
+Medical,673c284177f072fe8108297c,Thuốc,Efferalgan 500Mg 4X4,efferalgan 500mg 4x4,Thuốc,Thuốc,1.0,Thuốc,0.638,Thuốc,ground-truth,0,False
+Medical,673842171403182d62023861,Thuốc,Glotadol 650 Abbott 200V,glotadol 650 abbott 200v,Thuốc,Khác,0.0,Thuốc,0.763,Thuốc,ground-truth,0,False
+Medical,673842171403182d62023861,Thuốc,Mieng Dan Ha Sot Lion Hiepita For Child,mieng dan ha sot lion hiepita for child,Thuốc,Khác,0.0,Thuốc,0.641,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Acehasan 100Mg 30 Goi,acehasan 100mg 30 goi,Thuốc,Khác,0.0,Thuốc,0.679,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Hapacol Flu 250Mg Dhg 24 Goi,hapacol flu 250mg dhg 24 goi,Thuốc,Thuốc,1.0,Thuốc,0.737,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Hapacol 250Mg Hop 24 Goi,hapacol 250mg hop 24 goi,Thuốc,Thuốc,1.0,Thuốc,0.652,Thuốc,ground-truth,0,False
+Medical,676bf34b15106db2c7058387,Thuốc,Glotadol 650 Abbott 200V,glotadol 650 abbott 200v,Thuốc,Khác,0.0,Thuốc,0.763,Thuốc,ground-truth,0,False
+Medical,673746f4bef12285b40fb794,Thuốc,Glotadol 650Mg (Chai),glotadol 650mg chai,Thuốc,Khác,0.0,Thuốc,0.575,Thuốc,ground-truth,0,False
+Medical,673858d8454318d3430ab225,Thuốc,Efferalgan 500Mg (Hop 4 Vi X 4 Vien),efferalgan 500mg hop 4 vi x 4 vien,Thuốc,Thuốc,1.0,Thuốc,0.614,Thuốc,ground-truth,0,False
+Medical,673871fc4366218357075869,Thuốc,Aspirin 81Mg Stella 2X28,aspirin 81mg stella 2x28,Thuốc,Khác,0.0,Thuốc,0.601,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Efferalgan Suppo. 150Mg,efferalgan suppo 150mg,Thuốc,Thuốc,1.0,Thuốc,0.599,Thuốc,ground-truth,0,False
+Medical,67587b1b9a09e9e5470506be,Thuốc,Glotadol 650 Abbott 200V,glotadol 650 abbott 200v,Thuốc,Khác,0.0,Thuốc,0.763,Thuốc,ground-truth,0,False
+Medical,677a3a480dd2edf80400a6f6,Thuốc,Glotadol 650 Abbott 200V,glotadol 650 abbott 200v,Thuốc,Khác,0.0,Thuốc,0.763,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Rabestad 20 Stella,rabestad 20 stella,Thuốc,Khác,0.0,Thuốc,0.619,Thuốc,ground-truth,0,False
+Medical,677f6f2e2a65f2b53f047c9c,Thuốc,Spas-Agi 60Mg Agimexpharm 6X10,spas-agi 60mg agimexpharm 6x10,Thuốc,Khác,0.0,Thuốc,0.702,Thuốc,ground-truth,0,False
+Medical,677f6f2e2a65f2b53f047c9c,Thuốc,Loperamid 2Mg Stella 5X10,loperamid 2mg stella 5x10,Thuốc,Khác,0.0,Thuốc,0.678,Thuốc,ground-truth,0,False
+Medical,6736fb1cbe2cbbd6ee05b9c7,Thuốc,Lansoprazol 30Mg Imexpharm 10V -(Viên),lansoprazol 30mg imexpharm 10v - viên,Thuốc,Khác,0.0,Thuốc,0.587,Thuốc,ground-truth,0,False
+Medical,673aed6c89ff5708630ed8af,Thuốc,Spas-Al 60Mg Agimexpharm 6X10,spas-al 60mg agimexpharm 6x10,Thuốc,Khác,0.0,Thuốc,0.671,Thuốc,ground-truth,0,False
+Medical,673871fc4366218357075869,Thuốc,"Gastal Gel - Chong Trao Nguoc Da Day Thuc Quan, O Chua, Kho Tieu, Bao Ve Va Tai Tao Phuc Hoi Niem Mac Hong 20 Goi X 15Ml, Hsd: Tren 6 Thang",gastal gel - chong trao nguoc da day thuc quan o chua kho tieu bao ve va tai tao phuc hoi niem mac hong 20 goi x hsd tren 6 thang,Thuốc,Khác,0.0,Thuốc,0.506,Thuốc,ground-truth,0,False
+Medical,67375ee04ae4c54d43057dfd,Thuốc,Spas-Agi 60Mg Agimexpharm 6X10,spas-agi 60mg agimexpharm 6x10,Thuốc,Khác,0.0,Thuốc,0.702,Thuốc,ground-truth,0,False
+Medical,67375ee04ae4c54d43057dfd,Thuốc,Loperamid 2Mg Stella 5X10,loperamid 2mg stella 5x10,Thuốc,Khác,0.0,Thuốc,0.678,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Prednison 5Mg Vne Mau Cam,prednison 5mg vne mau cam,Thuốc,Thuốc,1.0,Thuốc,0.664,Thuốc,ground-truth,0,False
+Medical,6738d489628ab66d960f3966,Thuốc,Prednison 5Mg Vne Mau Cam,prednison 5mg vne mau cam,Thuốc,Thuốc,1.0,Thuốc,0.664,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Prednisolone 5Mg Stella 20Dv,prednisolone 5mg stella 20dv,Thuốc,Thuốc,1.0,Thuốc,0.705,Thuốc,ground-truth,0,False
+Medical,67380c2bf3ccefe0d8060769,Thuốc,Medrol 4 Mg(H/30V),medrol 4 mg h/30v,Thuốc,Thuốc,1.0,Thuốc,0.624,Thuốc,ground-truth,0,False
+Medical,673c284177f072fe8108297c,Thuốc,Medrol 16Mg Pfizer 3X10,medrol 16mg pfizer 3x10,Thuốc,Thuốc,1.0,Thuốc,0.751,Thuốc,ground-truth,0,False
+Medical,673842171403182d62023861,Thuốc,Methylprednisolon 4Mg Kh 10X10,methylprednisolon 4mg kh 10x10,Thuốc,Thuốc,1.0,Thuốc,0.825,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Prednisolone 5Mg Stella 200V,prednisolone 5mg stella 200v,Thuốc,Thuốc,1.0,Thuốc,0.74,Thuốc,ground-truth,0,False
+Medical,67380c2bf3ccefe0d8060769,Thuốc,Methylprednisolon 4Mg Kh 10X10,methylprednisolon 4mg kh 10x10,Thuốc,Thuốc,1.0,Thuốc,0.825,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Famsione Tab 5Mg-Prednisone,famsione tab 5mg-prednisone,Thuốc,Khác,0.0,Thuốc,0.671,Thuốc,ground-truth,0,False
+Medical,67369f706dc6f14570056e67,Thuốc,Medrol 16Mg (3*10) Wdb - Methylprednisolone 16Mg,medrol 16mg 3 10 wdb - methylprednisolone 16mg,Thuốc,Thuốc,1.0,Thuốc,0.681,Thuốc,ground-truth,0,False
+Medical,677fe62cfb893d87d901344c,Thuốc,Medrol 16Mg 30V/H,medrol 16mg 30v/h,Thuốc,Thuốc,1.0,Thuốc,0.735,Thuốc,ground-truth,0,False
+Medical,67374354b508e677120feef8,Thuốc,Medrol Tab 16Mg,medrol tab 16mg,Thuốc,Thuốc,1.0,Thuốc,0.799,Thuốc,ground-truth,0,False
+Medical,673605eabb7b4ce39f0c2efb,Thuốc,Medrol 4Mg Pfizer 3X10,medrol 4mg pfizer 3x10,Thuốc,Thuốc,1.0,Thuốc,0.696,Thuốc,ground-truth,0,False
+Medical,673a066b9d602209fc0e1dc6,Thuốc,Methylprednisolon 4Mg Kh 10X10,methylprednisolon 4mg kh 10x10,Thuốc,Thuốc,1.0,Thuốc,0.825,Thuốc,ground-truth,0,False
+Medical,67363dc0d0940e8c7709179c,Thuốc,Methylprednisolon 4Mg Kh 10X10,methylprednisolon 4mg kh 10x10,Thuốc,Thuốc,1.0,Thuốc,0.825,Thuốc,ground-truth,0,False
+Medical,6739d544074e345de30a2743,Thuốc,Methylprednisolon 4Mg Kh 10X10,methylprednisolon 4mg kh 10x10,Thuốc,Thuốc,1.0,Thuốc,0.825,Thuốc,ground-truth,0,False
+Medical,67587b1b9a09e9e5470506be,Thuốc,Methylprednisolone Blue 4Mg Kh 100V,methylprednisolone blue 4mg kh 100v,Thuốc,Khác,0.0,Thuốc,0.652,Thuốc,ground-truth,0,False
+Medical,677a3a480dd2edf80400a6f6,Thuốc,Methylprednisolon 4Mg Kh 10X10,methylprednisolon 4mg kh 10x10,Thuốc,Thuốc,1.0,Thuốc,0.825,Thuốc,ground-truth,0,False
+Medical,6735deb1a294c480570bc474,Thuốc,Dexamethasone 0.5Mg Mekophar 10X20,dexamethasone 0 5mg mekophar 10x20,Thuốc,Khác,0.0,Thuốc,0.634,Thuốc,ground-truth,0,False
+Medical,689089abbdd8621d5f08b58a,Thuốc,Vita C Glucose Mekophar 24V - Hộp 46 Gói,vita c glucose mekophar 24v - hộp,Thuốc,Khác,0.0,Thuốc,0.54,Thuốc,ground-truth,0,False
+Medical,68f1e3642a4fd603f90bdbb2,Thuốc,Tranamin Tablets 500Mg,tranamin tablets 500mg,Thuốc,Khác,0.0,Thuốc,0.608,Thuốc,ground-truth,0,False
+Medical,689eb5bb08d8148e4a0384b4,Thuốc,Agiclovir 5% Agimexpharm,agiclovir 5 agimexpharm,Thuốc,Khác,0.0,Thuốc,0.591,Thuốc,ground-truth,0,False
+Medical,689089abbdd8621d5f08b58a,Thuốc,Plavix 75 Sanofi 1X14,plavix 75 sanofi 1x14,Thuốc,Khác,0.0,Thuốc,0.588,Thuốc,ground-truth,0,False
+Medical,6736ec8a274b289126076488,Thuốc,Pediakid 22 Vitamin 125Ml,pediakid 22 vitamin,Thuốc,Khác,0.0,Thực phẩm chức năng,0.648,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Vitamin C 1000Mg + Zinc,vitamin c 1000mg + zinc,Thuốc,Khác,0.0,Thực phẩm chức năng,0.655,Thuốc,ground-truth,0,False
+Medical,6736fb1cbe2cbbd6ee05b9c7,Thuốc,Lostad Hgt 50/12.5 Stella 3X10,lostad hgt 50/12 5 stella 3x10,Thuốc,Khác,0.0,Thuốc,0.648,Thuốc,ground-truth,0,False
+Medical,677f6f2e2a65f2b53f047c9c,Thuốc,Vitamin C 500Mg Khapharco 10X10,vitamin c 500mg khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.513,Thuốc,ground-truth,0,False
+Medical,6738302ef1e23b66110f0287,Thuốc,Berocca Bayer 10V,berocca bayer 10v,Thuốc,Khác,0.0,Thực phẩm chức năng,0.595,Thuốc,ground-truth,0,False
+Medical,673708d522767f1db80c7568,Thuốc,Cefadroxil 500Mg Domesco 2X10,cefadroxil 500mg domesco 2x10,Thuốc,Khác,0.0,Thuốc,0.655,Thuốc,ground-truth,0,False
+Medical,673708d522767f1db80c7568,Thuốc,Dextromethorphan 15Mg Tipharco 10X10,dextromethorphan 15mg tipharco 10x10,Thuốc,Khác,0.0,Thuốc,0.693,Thuốc,ground-truth,0,False
+Medical,6741cab6495362808f0acd38,Thuốc,Betaserc 16Mg Abbott 3X20,betaserc 16mg abbott 3x20,Thuốc,Khác,0.0,Thuốc,0.642,Thuốc,ground-truth,0,False
+Medical,67728272669af363f1018440,Thuốc,Viên Sủi Kudos Daily Vitamins Plus Biotin & Ginseng Hương Cam 20V,viên sủi kudos daily vitamins plus biotin & ginseng hương cam 20v,Thuốc,Khác,0.0,Thuốc,0.566,Thuốc,ground-truth,0,False
+Medical,67c8540c428f8a950d06364b,Thuốc,Calcium Corbiere Kids Extra Sanofi 5Ml,calcium corbiere kids extra sanofi,Thuốc,Khác,0.0,Thực phẩm chức năng,0.602,Thuốc,ground-truth,0,False
+Medical,67c8540c428f8a950d06364b,Thuốc,Vien Uong Bo Sung Vitamin C 500Mg Nature'S Bounty 100V,vien uong bo sung vitamin c 500mg nature's bounty 100v,Thuốc,Khác,0.0,Thực phẩm chức năng,0.733,Thuốc,ground-truth,0,False
+Medical,677f6f2e2a65f2b53f047c9c,Thuốc,Berberin 100Mg Domesco 100V,berberin 100mg domesco 100v,Thuốc,Khác,0.0,Thuốc,0.681,Thuốc,ground-truth,0,False
+Medical,6736fb1cbe2cbbd6ee05b9c7,Thuốc,Lostad Hct 50/12.5 Stella 3X10,lostad hct 50/12 5 stella 3x10,Thuốc,Khác,0.0,Thuốc,0.648,Thuốc,ground-truth,0,False
+Medical,673c284177f072fe8108297c,Thuốc,Alphachymotrypsin Glomed 4200 Abbott 2X10,alphachymotrypsin glomed 4200 abbott 2x10,Thuốc,Khác,0.0,Thuốc,0.705,Thuốc,ground-truth,0,False
+Medical,674aa1416afbe6500304f879,Thuốc,Alpha Choay Chymotrypsine Sanofi 2X15,alpha choay chymotrypsine sanofi 2x15,Thuốc,Thuốc,1.0,Thuốc,0.867,Thuốc,ground-truth,0,False
+Medical,6750106c66e3b0c938076cf4,Thuốc,Alpha Choay Chymotrypsine Sanofi 2X15,alpha choay chymotrypsine sanofi 2x15,Thuốc,Thuốc,1.0,Thuốc,0.867,Thuốc,ground-truth,0,False
+Medical,6750106c66e3b0c938076cf4,Thuốc,Alpha Choay Chymotrypsine: Sanofi 2X15,alpha choay chymotrypsine sanofi 2x15,Thuốc,Thuốc,1.0,Thuốc,0.867,Thuốc,ground-truth,0,False
+Medical,674bf0c6d8c3434448037345,Thuốc,Alpha Choay Chymotrypsine Sanofi Zx15,alpha choay chymotrypsine sanofi zx15,Thuốc,Thuốc,1.0,Thuốc,0.815,Thuốc,ground-truth,0,False
+Medical,67500e5d8bd42a79ef022aef,Thuốc,Alpha Choay Chymotrypsine Sanofi 2X15,alpha choay chymotrypsine sanofi 2x15,Thuốc,Thuốc,1.0,Thuốc,0.867,Thuốc,ground-truth,0,False
+Medical,674bf0c6d8c3434448037345,Thuốc,Alpha Choay Chymotrypsine Sanofi 2X15,alpha choay chymotrypsine sanofi 2x15,Thuốc,Thuốc,1.0,Thuốc,0.867,Thuốc,ground-truth,0,False
+Medical,67500e5d8bd42a79ef022aef,Thuốc,Alpha Choay Chymotrypsine Sanofi,alpha choay chymotrypsine sanofi,Thuốc,Thuốc,1.0,Thuốc,0.866,Thuốc,ground-truth,0,False
+Medical,67375f444ae4c54d43057ea6,Thuốc,Alpha Choay Chymotrypsine Sanofi,alpha choay chymotrypsine sanofi,Thuốc,Thuốc,1.0,Thuốc,0.866,Thuốc,ground-truth,0,False
+Medical,67375f444ae4c54d43057ea6,Thuốc,Alpha Choay Chymotrypsine Sanofi 2X15,alpha choay chymotrypsine sanofi 2x15,Thuốc,Thuốc,1.0,Thuốc,0.867,Thuốc,ground-truth,0,False
+Medical,67375f444ae4c54d43057ea6,Thuốc,Alpha Choay Chymotrypsine: Sanofi 2X15,alpha choay chymotrypsine sanofi 2x15,Thuốc,Thuốc,1.0,Thuốc,0.867,Thuốc,ground-truth,0,False
+Medical,673842171403182d62023861,Thuốc,Vitamin C 500Mg Khapharco 10X10,vitamin c 500mg khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.513,Thuốc,ground-truth,0,False
+Medical,67380c2bf3ccefe0d8060769,Thuốc,Canesten Cream 1% Bayer 5G,canesten cream 1 bayer,Thuốc,Khác,0.0,Thuốc,0.522,Thuốc,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Thuốc,Vitamin 3B Extra 100Mg + 100Mg,vitamin 3b extra 100mg + 100mg,Thuốc,Khác,0.0,Thuốc,0.663,Thuốc,ground-truth,0,False
+Medical,679640255ec593a4b40db8e7,Thuốc,Vitamin 3B Extra,vitamin 3b extra,Thuốc,Khác,0.0,Thuốc,0.578,Thuốc,ground-truth,0,False
+Medical,67433b7f5b2b7230f106e7a8,Thuốc,Thuoc Dieu Tri Cac Benh Da,thuoc dieu tri cac benh da,Thuốc,Thuốc,1.0,Thuốc,0.566,Thuốc,ground-truth,0,False
+Medical,673746f4bef12285b40fb794,Thuốc,Alphachymotrypsin Glomed,alphachymotrypsin glomed,Thuốc,Khác,0.0,Thuốc,0.648,Thuốc,ground-truth,0,False
+Medical,6736fb1cbe2cbbd6ee05b9c7,Thuốc,Acemuc 200Mg Acetylcystein Sanofi 3X10V-(Viên),acemuc 200mg acetylcystein sanofi 3x10v- viên,Thuốc,Thuốc,1.0,Thuốc,0.63,Thuốc,ground-truth,0,False
+Medical,673858d8454318d3430ab225,Thuốc,Alpha Choay (Hop 2 Vi X 15 Vien),alpha choay hop 2 vi x 15 vien,Thuốc,Thuốc,1.0,Thuốc,0.669,Thuốc,ground-truth,0,False
+Medical,677565dccad46983650e067d,Thuốc,Vien Uong Bo Sung Vitamin C 500Mg Nature'S Bounty 100V,vien uong bo sung vitamin c 500mg nature's bounty 100v,Thuốc,Khác,0.0,Thực phẩm chức năng,0.733,Thuốc,ground-truth,0,False
+Medical,67369f706dc6f14570056e67,Thuốc,Alpha Choay (2*15) - Alphachymotrypsin 21 Microkarats,alpha choay 2 15 - alphachymotrypsin 21 microkarats,Thuốc,Thuốc,1.0,Thuốc,0.696,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Tfeasdin 60 Khapharco 10X10,tfeasdin 60 khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.694,Thuốc,ground-truth,0,False
+Medical,674aa1416afbe6500304f879,Thuốc,Hoat Huyet Nhat Nhat,hoat huyet nhat nhat,Thuốc,Khác,0.0,Thuốc,0.729,Thuốc,ground-truth,0,False
+Medical,674bf0c6d8c3434448037345,Thuốc,Hoat Huyet Nhat Nhat,hoat huyet nhat nhat,Thuốc,Khác,0.0,Thuốc,0.729,Thuốc,ground-truth,0,False
+Medical,673871fc4366218357075869,Thuốc,Duphaston Abbott 1X20,duphaston abbott 1x20,Thuốc,Khác,0.0,Thuốc,0.617,Thuốc,ground-truth,0,False
+Medical,67500e5d8bd42a79ef022aef,Thuốc,Hoat Huyet Nhat Nhat,hoat huyet nhat nhat,Thuốc,Khác,0.0,Thuốc,0.729,Thuốc,ground-truth,0,False
+Medical,67375f444ae4c54d43057ea6,Thuốc,Hoat Huyet Nhat Nhat,hoat huyet nhat nhat,Thuốc,Khác,0.0,Thuốc,0.729,Thuốc,ground-truth,0,False
+Medical,673aed6c89ff5708630ed8af,Thuốc,Vitaminc 500Mg Khapharco 10X10,vitaminc 500mg khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.668,Thuốc,ground-truth,0,False
+Medical,673871fc4366218357075869,Thuốc,Duphaston 10 H/20V,duphaston 10 h/20v,Thuốc,Khác,0.0,Thuốc,0.544,Thuốc,ground-truth,0,False
+Medical,67360d947e372967fc0b0d67,Thuốc,Alpha Choay 4200Iu,alpha choay 4200iu,Thuốc,Thuốc,1.0,Thuốc,0.757,Thuốc,ground-truth,0,False
+Medical,673a066b9d602209fc0e1dc6,Thuốc,Vitamin C 500Mg Khapharco 10X10,vitamin c 500mg khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.513,Thuốc,ground-truth,0,False
+Medical,673eb96904a195fed8067c88,Thuốc,Loratadin 10Mg Traphaco H/10V,loratadin 10mg traphaco h/10v,Thuốc,Khác,0.0,Thuốc,0.524,Thuốc,ground-truth,0,False
+Medical,6739f1ca4c0b59ec60093ac4,Thuốc,Serc 8 Tab 8Mg,serc 8 tab 8mg,Thuốc,Khác,0.0,Thuốc,0.604,Thuốc,ground-truth,0,False
+Medical,6739d544074e345de30a2743,Thuốc,Vitamin C 500Mg Khapharco 10X10,vitamin c 500mg khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.513,Thuốc,ground-truth,0,False
+Medical,6739d544074e345de30a2743,Thuốc,Fefasdin 60 Khapharco 10X10,fefasdin 60 khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.694,Thuốc,ground-truth,0,False
+Medical,67587b1b9a09e9e5470506be,Thuốc,Vitamin C 500Mg Khapharco 10X10,vitamin c 500mg khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.513,Thuốc,ground-truth,0,False
+Medical,6737843b4a4d94799706d386,Thuốc,Felodipine 5Mg Stella 10X10,felodipine 5mg stella 10x10,Thuốc,Khác,0.0,Thuốc,0.757,Thuốc,ground-truth,0,False
+Medical,67405c4dad5794ab150708a8,Thuốc,Glomcit-M Glomed,glomcit-m glomed,Thuốc,Khác,0.0,Thuốc,0.585,Thuốc,ground-truth,0,False
+Medical,673876e8ea88e3612b078260,Thuốc,Alpha Choay 4200Iu,alpha choay 4200iu,Thuốc,Thuốc,1.0,Thuốc,0.757,Thuốc,ground-truth,0,False
+Medical,675199df0ab44d11e800bf99,Thuốc,"Alphachymotrypsin (Alphachymotrypsin Choyd), 21 Microkatalas (3A, Viên) (Sanofi, Việt Nam)",alphachymotrypsin alphachymotrypsin choyd 21 microkatalas 3a viên sanofi việt nam,Thuốc,Khác,0.0,Thuốc,0.623,Thuốc,ground-truth,0,False
+Medical,651ccefea4d1db690006ba12,Thuốc,Acyclovir Stada 2G,acyclovir stada,Thuốc,Khác,0.0,Thuốc,0.544,Thuốc,ground-truth,0,False
+Medical,677a3a480dd2edf80400a6f6,Thuốc,Semozine Capsule 80Mg,semozine capsule 80mg,Thuốc,Khác,0.0,Thuốc,0.544,Thuốc,ground-truth,0,False
+Medical,674700bc4b2dc6e4d10f7f0d,Thuốc,Vitamin C 500Mg Khapharco 10X10,vitamin c 500mg khapharco 10x10,Thuốc,Khác,0.0,Thuốc,0.513,Thuốc,ground-truth,0,False
+Medical,67375ee04ae4c54d43057dfd,Thuốc,Berberin 100Mg Domesco 100V,berberin 100mg domesco 100v,Thuốc,Khác,0.0,Thuốc,0.681,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Telfast Hd 180Mg,telfast hd 180mg,Thuốc,Khác,0.0,Thuốc,0.563,Thuốc,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thuốc,Telfast Bd 60Mg,telfast bd 60mg,Thuốc,Khác,0.0,Thuốc,0.619,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Viêm hô hấp trên,viêm hô hấp trên,Thuốc,Khác,0.0,Thuốc,0.731,Thuốc,ground-truth,0,False
+Medical,6965967ba2ec6592420f8274,Thuốc,Viêm họng thông thường,viêm họng thông thường,Thuốc,Khác,0.0,Thuốc,0.555,Thuốc,ground-truth,0,False
+Medical,6965967ba2ec6592420f8274,Thuốc,GEL ACMEGEL MEDIPHARCO 15G,gel acmegel medipharco,Thuốc,Khác,0.0,Thuốc,0.535,Thuốc,ground-truth,0,False
+Medical,6965967ba2ec6592420f8274,Thuốc,SYNATURA SYRUP AHNGOOK 9 GÓI X 10ML,synatura syrup ahngook x,Thuốc,Khác,0.0,Thuốc,0.563,Thuốc,ground-truth,0,False
+Medical,6965967ba2ec6592420f8274,Thuốc,OSLA MERAP 15ML,osla merap,Thuốc,Khác,0.0,Thuốc,0.544,Thuốc,ground-truth,0,False
+Medical,697dddae3b22c0789c08df72,Thuốc,DOROGYNE 750000IU/125MG,dorogyne 750000iu/125mg,Thuốc,Khác,0.0,Thuốc,0.544,Thuốc,ground-truth,0,False
+Medical,697dddae3b22c0789c08df72,Thuốc,MEDROL TAB 16MG,medrol tab 16mg,Thuốc,Thuốc,1.0,Thuốc,0.799,Thuốc,ground-truth,0,False
+Medical,697dddae3b22c0789c08df72,Thuốc,ALAXAN,alaxan,Thuốc,Khác,0.0,Thuốc,0.544,Thuốc,ground-truth,0,False
+Medical,69a692c5c3b12358e908e04e,Thuốc,PANADOL EXTRA 15X12 ĐỎ,panadol extra 15x12 đỏ,Thuốc,Khác,0.0,Thuốc,0.554,Thuốc,ground-truth,0,False
+Medical,69a692c5c3b12358e908e04e,Thuốc,COLDACMIN FLU DHG 10X10,coldacmin flu dhg 10x10,Thuốc,Khác,0.0,Thuốc,0.668,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,THUỐC CẮT LIÊU VX G,thuốc cắt liêu vx g,Thuốc,Thuốc,1.0,Thuốc,0.559,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Viêm hô hấp trên,viêm hô hấp trên,Thuốc,Khác,0.0,Thuốc,0.731,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Eugica Fort Mega We Care 10x10,eugica fort mega we care 10x10,Thuốc,Khác,0.0,Thuốc,0.587,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,HAPACOL 650MG DHG 10X5,hapacol 650mg dhg 10x5,Thuốc,Thuốc,1.0,Thuốc,0.703,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,DEXTROMETHORPHAN 15MG TIPHARCO 10X10,dextromethorphan 15mg tipharco 10x10,Thuốc,Khác,0.0,Thuốc,0.693,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,ACEMUC 200 SANOFI 3X10,acemuc 200 sanofi 3x10,Thuốc,Thuốc,1.0,Thuốc,0.666,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,CLEDAMOX 1000MG TENAMYD 2X7,cledamox 1000mg tenamyd 2x7,Thuốc,Khác,0.0,Thuốc,0.538,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,PREDNISON 5MG DOMESCO 10X10,prednison 5mg domesco 10x10,Thuốc,Thuốc,1.0,Thuốc,0.766,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,ACEMUC KIDS 200 SANOFI 30 GÓI,acemuc kids 200 sanofi,Thuốc,Thuốc,1.0,Thuốc,0.604,Thuốc,ground-truth,0,False
+Medical,698582ae978239da3300cd8d,Thuốc,MEDROL 16MG,medrol 16mg,Thuốc,Thuốc,1.0,Thuốc,0.771,Thuốc,ground-truth,0,False
+Medical,698582ae978239da3300cd8d,Thuốc,CREDERM LOTION - HỘP 40ML,crederm lotion - hộp,Thuốc,Khác,0.0,Thuốc,0.531,Thuốc,ground-truth,0,False
+Medical,6923ee7ec1be9e37f6035b54,Thuốc,AERIUS TAB 5MG,aerius tab 5mg,Thuốc,Khác,0.0,Thuốc,0.694,Thuốc,ground-truth,0,False
+Medical,696e5a17b517bc879e03ac26,Thuốc,THUỐC CAT LIEU NBD,thuốc cat lieu nbd,Thuốc,Thuốc,1.0,Thuốc,0.559,Thuốc,ground-truth,0,False
+Medical,696e5a17b517bc879e03ac26,Thuốc,ALEUCIN 500MG,aleucin 500mg,Thuốc,Khác,0.0,Thuốc,0.597,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,VIÊM HÔ HẤP TRÊN (T DESLORATADIN 2.5MG AN THIÊN 30 ỐNG X 5ML),viêm hô hấp trên t desloratadin 2 5mg an thiên x,Thuốc,Khác,0.0,Thuốc,0.719,Thuốc,ground-truth,0,False
+Medical,68d6a95c2f7243bd8e04e0e0,Thuốc,TATANOL 500MG VBP,tatanol 500mg vbp,Thuốc,Khác,0.0,Thuốc,0.61,Thuốc,ground-truth,0,False
+Medical,68d6a95c2f7243bd8e04e0e0,Thuốc,CELEBREX 200MG,celebrex 200mg,Thuốc,Khác,0.0,Thuốc,0.574,Thuốc,ground-truth,0,False
+Medical,68d6a95c2f7243bd8e04e0e0,Thuốc,MEDROL TAB 16MG,medrol tab 16mg,Thuốc,Thuốc,1.0,Thuốc,0.799,Thuốc,ground-truth,0,False
+Medical,68d6a95c2f7243bd8e04e0e0,Thuốc,DYONAL TABLETS 50MG,dyonal tablets 50mg,Thuốc,Khác,0.0,Thuốc,0.581,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"Siro ho, bổ phế Lábebe 120ml",siro ho bổ phế lábebe,Thuốc,Thuốc,1.0,Thuốc,0.776,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,Allerfar 4 Pharmedic 10X20,allerfar 4 pharmedic 10x20,Thuốc,Khác,0.0,Thuốc,0.559,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,VIÊM HÔ HẤP TRÊN,viêm hô hấp trên,Thuốc,Khác,0.0,Thuốc,0.731,Thuốc,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thuốc,"SIRO HO, BỔ PHẾ LABEBE 120ML",siro ho bổ phế labebe,Thuốc,Thuốc,1.0,Thuốc,0.794,Thuốc,ground-truth,0,False
+Medical,69bddd6783efac41b70530fa,Thực phẩm chức năng,"Viên uống Neurocard Max Luca Pharma hỗ trợ chức năng hệ tim mạch, tuần hoàn máu",viên uống neurocard max luca pharma hỗ trợ chức năng hệ tim mạch tuần hoàn máu,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.67,Thực phẩm chức năng,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Thực phẩm chức năng,Thực phẩm bảo vệ sức khỏe Enterogermina,thực phẩm bảo vệ sức khỏe enterogermina,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.932,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thực phẩm chức năng,ENTEROGERMINA GUT DEFENSE 2,enterogermina gut defense 2,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.623,Thực phẩm chức năng,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thực phẩm chức năng,Morningkids Multivitamin 150ml,morningkids multivitamin,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.683,Thực phẩm chức năng,ground-truth,0,False
+Medical,697c799d5cc4ab7052031d1c,Thực phẩm chức năng,"GROWSKIN (VITAMIN C 200mg, kẽm gluconat 70mg, Vitamin E 12mg) - viên - #422207270",growskin vitamin c 200mg kẽm gluconat 70mg vitamin e 12mg - viên -,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.737,Thực phẩm chức năng,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Thực phẩm chức năng,Thực phẩm bảo vệ sức khỏe Corbiere Calcium Plus,thực phẩm bảo vệ sức khỏe corbiere calcium plus,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.892,Thực phẩm chức năng,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Thực phẩm chức năng,Combo 2 Thực phẩm bảo vệ sức khỏe Enter...,combo 2 thực phẩm bảo vệ sức khỏe enter,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.892,Thực phẩm chức năng,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Thực phẩm chức năng,Combo 2 Thực phẩm bảo vệ sức khỏe Enterogermina,combo 2 thực phẩm bảo vệ sức khỏe enterogermina,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.929,Thực phẩm chức năng,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Thực phẩm chức năng,Combo 2 Thực phẩm bảo vệ sức khỏe Enteregermina,combo 2 thực phẩm bảo vệ sức khỏe enteregermina,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.892,Thực phẩm chức năng,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Thực phẩm chức năng,Thực phẩm bảo vệ sức khỏe Enterogermina,thực phẩm bảo vệ sức khỏe enterogermina,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.932,Thực phẩm chức năng,ground-truth,0,False
+Medical,6736d85fea24cc986d0c0cf4,Thực phẩm chức năng,Nước bù điện giải Kamizol vị dâu 250ml,nước bù điện giải kamizol vị dâu,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.675,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thực phẩm chức năng,Colicare Drops (Chai 15ml),colicare drops chai,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.801,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thực phẩm chức năng,EnteroGERMINA (2 TỶ BẢO TỬ/5ML- ỐNG 5ML),enterogermina 2 tỷ bảo tử/ - ống,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.805,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thực phẩm chức năng,Suplizinc 70mg (Gói),suplizinc 70mg gói,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.693,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thực phẩm chức năng,"Ziusa (LỌ 22,5ML)",ziusa lọ,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.683,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thực phẩm chức năng,EnteroGERMINA (2 tỷ bào tử/5ml-ống 5ml),enterogermina 2 tỷ bào tử/ -ống,Thực phẩm chức năng,Thực phẩm chức năng,0.85,Thực phẩm chức năng,0.767,Thực phẩm chức năng,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Thực phẩm chức năng,Colicare Drops (Chai 15ml),colicare drops chai,Thực phẩm chức năng,Khác,0.0,Thực phẩm chức năng,0.801,Thực phẩm chức năng,ground-truth,0,False
+Medical,5fe3184fa60af613a02dc667,Dụng cụ y tế,POVIDINE 10% 20ML,povidine 10,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.615,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dụng cụ y tế,DR.PAPIE GẠC RĂNG MIỆNG EM,dr papie gạc răng miệng em,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.825,Dụng cụ Y tế,ground-truth,0,False
+Medical,6965967ba2ec6592420f8274,Dụng cụ y tế,Gel Bôi Neothera Agnes Hỗ Trợ Điều Trị Mụn 15ml,gel bôi neothera agnes hỗ trợ điều trị mụn,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.623,Dụng cụ Y tế,ground-truth,0,False
+Medical,5fe3184fa60af613a02dc667,Dụng cụ y tế,Nizoral 100ml (1 chai),nizoral,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.634,Dụng cụ Y tế,ground-truth,0,False
+Medical,69566c2d8137bf39370b8461,Dụng cụ y tế,CAO VÔI ĐÁNH BÓNG,cao vôi đánh bóng,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.629,Dụng cụ Y tế,ground-truth,0,False
+Medical,69566c2d8137bf39370b8461,Dụng cụ y tế,TRÁM RĂNG SÂU TO,trám răng sâu to,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.661,Dụng cụ Y tế,ground-truth,0,False
+Medical,697c799d5cc4ab7052031d1c,Dụng cụ y tế,Kim tiêm Meso NanoNeedle JBP 34Gx4mm - #414600002,kim tiêm meso nanoneedle jbp 34gx4mm -,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.634,Dụng cụ Y tế,ground-truth,0,False
+Medical,697c799d5cc4ab7052031d1c,Dụng cụ y tế,Mesotherapy Tranacix - #900010553,mesotherapy tranacix -,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.634,Dụng cụ Y tế,ground-truth,0,False
+Medical,68d6a95c2f7243bd8e04e0e0,Dụng cụ y tế,NATRI CLORID NHO MAT MUI,natri clorid nho mat mui,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.461,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Dịch vụ Y tế,Khám dịch vụ theo yêu cầu,khám dịch vụ theo yêu cầu,Dịch vụ Y tế,Dịch vụ Y tế,0.85,Dịch vụ Y tế,0.719,Dịch vụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,[Creator] Combo 4 gói Tã Huggies M102+4 x4,creator combo tã huggies +4 x4,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.704,Dụng cụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,"Tã quần Huggies SkinPerfect Pants (XL, 12-17kg, 52+6 miếng)",tã quần huggies skinperfect pants xl 12- 52+,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.736,Dụng cụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,Thùng 3 gói Tã/Bỉm quần Huggies Skin Perfect Super Jumbo Size M70+6/L60+6/XL52+6/XXL48+6,thùng tã/bỉm quần huggies skin perfect super jumbo size m70+6/l60+6/xl52+6/xxl48+6,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.88,Dụng cụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,[Creator] Thùng 3 gói Tã/ Bỉm quần Huggies Skin Perfect Super Jumbo Size M70+6/L60+6/XL52+6/XXL48+6,creator thùng tã/ bỉm quần huggies skin perfect super jumbo size m70+6/l60+6/xl52+6/xxl48+6,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.89,Dụng cụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,[Creator] Thùng 3 gói Tã/ Bỉm quần Huggies Skin Perfect Super Jumbo Size M70+/6/L60+/6/XL52+/6/XXL48+/6,creator thùng tã/ bỉm quần huggies skin perfect super jumbo size m70+/6/l60+/6/xl52+/6/xxl48+/6,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.89,Dụng cụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,[Gift Huggies] Túi lị xl cho bé,gift huggies túi lị xl cho bé,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.74,Dụng cụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,[Gift Huggies] TúiII xl cho bé,gift huggies túiii xl cho bé,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.744,Dụng cụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,[Creator] Thùng 3 gói Tã/Bỉm quần Huggies Skin Perfect Super Jumbo Size M70+/L60+/X6+/XXL48+6,creator thùng tã/bỉm quần huggies skin perfect super jumbo size m70+/l60+/x6+/xxl48+6,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.865,Dụng cụ Y tế,ground-truth,0,False
+Medical,696f5e76ce9670f80c0fbea6,Bỉm -Tã,Tã/Bỉm quần Huggies Skin Perfect Super Jumbo Size M70+/L60+/XL52+/XXL48+6,tã/bỉm quần huggies skin perfect super jumbo size m70+/l60+/xl52+/xxl48+6,Dụng cụ Y tế,Khác,0.0,Dụng cụ Y tế,0.875,Dụng cụ Y tế,ground-truth,0,False
+Medical,67399cf8dd88c143010e544d,Bỉm -Tã,PMC Tăm Bông Trẻ Em (Gói/200 que),pmc tăm bông trẻ em gói/200 que,Dụng cụ Y tế,Dụng cụ Y tế,1.0,Dụng cụ Y tế,0.71,Dụng cụ Y tế,ground-truth,0,False

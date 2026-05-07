@@ -1,0 +1,6 @@
+﻿label,priority,pattern
+Thuốc,1,\b(thuốc|thuoc|siro|hapacol|medrol|prednison|prednisolone|methylprednisolon|augmentin|efferalgan|alpha choay|acemuc)\b
+Dụng cụ Y tế,1,\b(khẩu trang|gạc|pmc|urgo|sterimar|dr\.? ?papie|salonpas|que thử|kim tiêm)\b
+Dịch vụ Y tế,2,\b(khám|siêu âm|xét nghiệm|chụp xquang|công khám)\b
+Thực phẩm chức năng,2,\b(tp bvsk|tpbvsk|enterogermina|livespo|men vi sinh)\b
+Dung dịch vệ sinh,3,\b(lactacyd|femfresh|dung dịch vệ sinh)\b
