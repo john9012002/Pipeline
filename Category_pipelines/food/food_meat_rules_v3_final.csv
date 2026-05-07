@@ -1,0 +1,130 @@
+﻿label,type,pattern
+Thịt - Hải sản - Trứng,meat_rule,\bnạc\s*(heo|vai|đùi|rọi|dăm)\b
+Thịt - Hải sản - Trứng,meat_rule,\bnac\s*(heo|vai|dui|roi|dam)\b
+Thịt - Hải sản - Trứng,meat_rule,\bba\s*rọi\b
+Thịt - Hải sản - Trứng,meat_rule,\bba\s*roi\b
+Thịt - Hải sản - Trứng,meat_rule,\bba\s*chỉ\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bba\s*chi\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bcốt\s*lết\b
+Thịt - Hải sản - Trứng,meat_rule,\bcot\s*let\b
+Thịt - Hải sản - Trứng,meat_rule,\bchân\s*giò\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bchan\s*gio\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bgiò\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bgio\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bsườn\s*(non|nướng|cắt|ram|khúc)\b
+Thịt - Hải sản - Trứng,meat_rule,\bsuon\s*(non|nuong|cat|ram|khuc)\b
+Thịt - Hải sản - Trứng,meat_rule,\bđùi\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bdui\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bnạc\s*rọi\b
+Thịt - Hải sản - Trứng,meat_rule,\bnac\s*roi\b
+Thịt - Hải sản - Trứng,meat_rule,\bheo\s*(xay|quay|sữa|rừng|iberico)\b
+Thịt - Hải sản - Trứng,meat_rule,\bheo\s*(xay|quay|sua|rung)\b
+Thịt - Hải sản - Trứng,meat_rule,\bmỡ\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bmo\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bxương\s*cổ\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bxuong\s*co\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bbắp\s*giò\b
+Thịt - Hải sản - Trứng,meat_rule,\bbap\s*gio\b
+Thịt - Hải sản - Trứng,meat_rule,\bheo\s*sữa\s*quay\b
+Thịt - Hải sản - Trứng,meat_rule,\bheo\s*rừng\b
+Thịt - Hải sản - Trứng,meat_rule,\bbò\s*(mỹ|wagyu|nhúng|tươi|cuộn)\b
+Thịt - Hải sản - Trứng,meat_rule,\bbo\s*(my|wagyu|nhung|tuoi|cuon)\b
+Thịt - Hải sản - Trứng,meat_rule,\blưỡi\s*bò\b
+Thịt - Hải sản - Trứng,meat_rule,\bluoi\s*bo\b
+Thịt - Hải sản - Trứng,meat_rule,\btổ\s*ong\s*bò\b
+Thịt - Hải sản - Trứng,meat_rule,\bto\s*ong\s*bo\b
+Thịt - Hải sản - Trứng,meat_rule,\bthăn\s*(ngoài|trong)?\s*bò\b
+Thịt - Hải sản - Trứng,meat_rule,\bthan\s*(ngoai|trong)?\s*bo\b
+Thịt - Hải sản - Trứng,meat_rule,\bnabe\s*bò\b
+Thịt - Hải sản - Trứng,meat_rule,\bnabe\s*bo\b
+Thịt - Hải sản - Trứng,meat_rule,\bcánh\s*gà\b
+Thịt - Hải sản - Trứng,meat_rule,\bcanh\s*ga\b
+Thịt - Hải sản - Trứng,meat_rule,\bức\s*gà\b
+Thịt - Hải sản - Trứng,meat_rule,\buc\s*ga\b
+Thịt - Hải sản - Trứng,meat_rule,\bđùi\s*gà\b
+Thịt - Hải sản - Trứng,meat_rule,\bdui\s*ga\b
+Thịt - Hải sản - Trứng,meat_rule,\bmá\s*đùi\s*gà\b
+Thịt - Hải sản - Trứng,meat_rule,\bma\s*dui\s*ga\b
+Thịt - Hải sản - Trứng,meat_rule,\bgà\s*(ta|slim)\b
+Thịt - Hải sản - Trứng,meat_rule,\bga\s*(ta|slim)\b
+Thịt - Hải sản - Trứng,meat_rule,\b3f\s*(ức|cánh|đùi|uc|canh|dui)\b
+Thịt - Hải sản - Trứng,meat_rule,\bcá\s*(nục|hồi|thu|basa|trê|ngừ|tuyết|lóc|tra|bống|chim|mú|rô|bớp|điêu|trích)\b
+Thịt - Hải sản - Trứng,meat_rule,\bca\s*(nuc|hoi|thu|basa|tre|ngu|tuyet|loc|tra|bong|chim|mu|ro|bop|dieu|trich)\b
+Thịt - Hải sản - Trứng,meat_rule,\bca\s*(chinh|song|hu|ngan|dia|bop|bau)\b
+Thịt - Hải sản - Trứng,meat_rule,\bsalmon\b
+Thịt - Hải sản - Trứng,meat_rule,\bca\s*hoi\b
+Thịt - Hải sản - Trứng,meat_rule,\bphi\s*lê\b
+Thịt - Hải sản - Trứng,meat_rule,\bphi\s*le\b
+Thịt - Hải sản - Trứng,meat_rule,\bfillet\s*(cá|ca|heo|bò|bo|gà|ga)\b
+Thịt - Hải sản - Trứng,meat_rule,\bcrispy\s*salmon\b
+Thịt - Hải sản - Trứng,meat_rule,\bgrilled\s*salmon\b
+Thịt - Hải sản - Trứng,meat_rule,\bsalmon\s*(roll|head|skin|teriyaki|maki)\b
+Thịt - Hải sản - Trứng,meat_rule,\bcá\s*hộp\b
+Thịt - Hải sản - Trứng,meat_rule,\bca\s*hop\b
+Thịt - Hải sản - Trứng,meat_rule,\bcá\s*viên\b
+Thịt - Hải sản - Trứng,meat_rule,\bca\s*vien\b
+Thịt - Hải sản - Trứng,meat_rule,\bchả\s*cá\b
+Thịt - Hải sản - Trứng,meat_rule,\bcha\s*ca\b
+Thịt - Hải sản - Trứng,meat_rule,\bsteamed\s*fish\b
+Thịt - Hải sản - Trứng,meat_rule,\bfish\b(?!\s*(sauce|finger|cake|oil|ball))
+Thịt - Hải sản - Trứng,meat_rule,\btuna\b
+Thịt - Hải sản - Trứng,meat_rule,\btemaki\b
+Thịt - Hải sản - Trứng,meat_rule,\bgunkan\b
+Thịt - Hải sản - Trứng,meat_rule,\bhải\s*sản\s*(đặc biệt|hấp|nướng)\b
+Thịt - Hải sản - Trứng,meat_rule,\bhai\s*san\s*(dac biet|hap|nuong)\b
+Thịt - Hải sản - Trứng,meat_rule,\btôm\s*(sú|hùm|tích|tươi)\b
+Thịt - Hải sản - Trứng,meat_rule,\btom\s*(su|hum|tich|tuoi)\b
+Thịt - Hải sản - Trứng,meat_rule,\bmực\s*(tươi|nguyên con)\b
+Thịt - Hải sản - Trứng,meat_rule,\bmuc\s*(tuoi|nguyen con)\b
+Thịt - Hải sản - Trứng,meat_rule,\bcua\s*(biển|tươi)\b
+Thịt - Hải sản - Trứng,meat_rule,\bcua\s*(bien|tuoi)\b
+Thịt - Hải sản - Trứng,meat_rule,\bghẹ\b
+Thịt - Hải sản - Trứng,meat_rule,\bghe\b
+Thịt - Hải sản - Trứng,meat_rule,\bnghêu\b
+Thịt - Hải sản - Trứng,meat_rule,\bngheu\b
+Thịt - Hải sản - Trứng,meat_rule,\bbạch\s*tuộc\b
+Thịt - Hải sản - Trứng,meat_rule,\bbạch\s*tuoc\b
+Thịt - Hải sản - Trứng,meat_rule,\blươn\b
+Thịt - Hải sản - Trứng,meat_rule,\bbào\s*ngư\b
+Thịt - Hải sản - Trứng,meat_rule,\bbao\s*ngu\b
+Thịt - Hải sản - Trứng,meat_rule,\btrứng\s*(gà|vịt|cút)\b(?!\s*(chiên|xào|bác))
+Thịt - Hải sản - Trứng,meat_rule,\btrung\s*(ga|vit|cut)\b(?!\s*(chien|xao|bac))
+Thịt - Hải sản - Trứng,meat_rule,\bboiled\s*egg\b
+Thịt - Hải sản - Trứng,meat_rule,\bfreid\s*egg\b
+Thịt - Hải sản - Trứng,meat_rule,\bvs990\b
+Thịt - Hải sản - Trứng,meat_rule,\bves990\b
+Thịt - Hải sản - Trứng,meat_rule,\bnp990\b
+Thịt - Hải sản - Trứng,meat_rule,\bmeat\s*(deli|master)\b
+Thịt - Hải sản - Trứng,meat_rule,\bjapfa\b
+Thịt - Hải sản - Trứng,meat_rule,\b(heo|gà|ga|bò|bo)\s*(cp|c\.p)\b
+Thịt - Hải sản - Trứng,meat_rule,\b(cp|c\.p)\s*(heo|gà|ga|bò|bo)\b
+Thịt - Hải sản - Trứng,meat_rule,\bpork\s*(neck|belly|chop|ribs?|loin)\b
+Thịt - Hải sản - Trứng,meat_rule,\bbeef\s*(slice|roll|wagyu|brisket)\b
+Thịt - Hải sản - Trứng,meat_rule,\bchicken\s*(breast|thigh|wing|leg)\b(?!\s*(fried|chiên|nướng gói))
+Thịt - Hải sản - Trứng,meat_rule,\bshrimp\s*(scampi|tempura)\b
+Thịt - Hải sản - Trứng,meat_rule,\btonkatsu\b
+Thịt - Hải sản - Trứng,meat_rule,\bgỏi\s*cá\b
+Thịt - Hải sản - Trứng,meat_rule,\bgoi\s*ca\b
+Thịt - Hải sản - Trứng,meat_rule,\bcanh\s*giò\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\bcanh\s*gio\s*heo\b
+Thịt - Hải sản - Trứng,meat_rule,\brtc\s*(canh|gio)\b
+Thịt - Hải sản - Trứng,meat_rule,\bnew\s*cut.*\b(heo|bò|bo|gà|ga)\b
+EXCLUSION,exclusion_prefix,\b(cơm|com)\s*(chiên|chien|rang|tấm|tam|trộn|tron)\b
+EXCLUSION,exclusion_prefix,\b(mì|mi)\s*(xào|xao|goreng|gói|tôm|tom|sườn|suon|gà|ga)\b
+EXCLUSION,exclusion_prefix,\b(phở|pho)\s*(bò|bo|gà|ga|heo)\b
+EXCLUSION,exclusion_prefix,\b(bún|bun)\s*(bò|bo|gà|ga|heo|chả|cha)\b
+EXCLUSION,exclusion_prefix,\b(cháo|chao)\s*(gà|ga|heo|bò|bo)\b
+EXCLUSION,exclusion_prefix,\b(bánh|banh)\s*(mì|mi|cuốn|cuon)\b
+EXCLUSION,exclusion_prefix,\b(lẩu|lau)\s*(hải sản|hai san|bò|bo|gà|ga)\b
+EXCLUSION,exclusion_prefix,\b(combo|set)\s*(cơm|com|bún|bun|phở|pho|gà|ga|bò|bo)\b
+EXCLUSION,exclusion_prefix,\b(hủ tiếu|hu tieu)\b
+EXCLUSION,exclusion_prefix,\b(ramen|udon|soba)\b
+EXCLUSION,exclusion_prefix,\bkim\s*chi\b
+EXCLUSION,exclusion_prefix,\bsnack\b.*\b(gà|ga|heo|bò|bo|tôm|tom)\b
+EXCLUSION,exclusion_prefix,\b(bánh quy|banh quy|cracker)\b.*\b(gà|ga|heo|bò|bo)\b
+EXCLUSION,exclusion_prefix,\b(vifon|acecook|omachi|kokomi|hảo hảo|hao hao)\b
+EXCLUSION,exclusion_prefix,\b(sốt|sot)\s*(bbq|tiêu|tieu|chanh|gừng|gung)\b
+EXCLUSION,exclusion_prefix,\btôm\s*xào\s*chua\s*ngọt\b
+EXCLUSION,exclusion_prefix,\btom\s*xao\s*chua\s*ngot\b
+EXCLUSION,exclusion_prefix,\bhuong\s*vi\s*(suon|sườn|tom|tôm|ga|gà|bo|bò)\b
+EXCLUSION,exclusion_prefix,\bvị\s*(sườn|tôm|gà|bò)\b

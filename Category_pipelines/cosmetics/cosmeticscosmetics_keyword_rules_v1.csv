@@ -1,0 +1,167 @@
+﻿label,priority,pattern
+Personal Care,1,\bkem\s*đánh\s*răng\b
+Personal Care,1,\bkem\s*danh\s*rang\b
+Personal Care,1,\bkdr\b
+Personal Care,1,\bcolgate\b
+Personal Care,1,\bsensodyne\b
+Personal Care,1,\bsensdyne\b
+Personal Care,1,\bpepsodent\b
+Personal Care,1,\bp/?s\b(?=\s*(kdr|kem|răng))
+Personal Care,1,\boral[\s\-]?b\b
+Personal Care,1,\bbàn\s*chải\s*(đánh\s*răng|răng)?\b
+Personal Care,1,\btoothbrush\b
+Personal Care,1,\btoothpaste\b
+Personal Care,1,\bnước\s*súc\s*miệng\b
+Personal Care,1,\blisterine\b
+Personal Care,1,\bmouthwash\b
+Personal Care,1,\bbăng\s*vệ\s*sinh\b
+Personal Care,1,\bbvs\b
+Personal Care,1,\bkotex\b
+Personal Care,1,\blaurier\b
+Personal Care,1,\bdiana\b(?=\s*(bvs|băng))
+Personal Care,1,\btampon\b
+Personal Care,1,\btã\b
+Personal Care,1,\bbỉm\b
+Personal Care,1,\bmama\b(?=\s*\d)
+Personal Care,1,\bkhăn\s*ướt\b
+Personal Care,1,\bwet\s*wipes?\b
+Personal Care,1,\bwipes?\b
+Personal Care,1,\bdung\s*dịch\s*vệ\s*sinh\b
+Personal Care,1,\blactacyd\b
+Personal Care,1,\bgynofar\b
+Personal Care,1,\bgạc\s*răng\s*miệng\b
+Personal Care,1,\bdr\.?\s*papie\b
+Haircare & Body,1,\bdầu\s*gội\b
+Haircare & Body,1,\bshampoo\b
+Haircare & Body,1,\bhead\s*&?\s*shoulders?\b
+Haircare & Body,1,\bpantene\b
+Haircare & Body,1,\bclear\b(?=\s*(dầu|gội))
+Haircare & Body,1,\bsunsilk\b
+Haircare & Body,1,\bpalmolive\b(?=\s*(dầu|gội|silky))
+Haircare & Body,1,\bogx\b
+Haircare & Body,1,\bromano\b(?=\s*(dầu|gội|classic))
+Haircare & Body,1,\bdầu\s*xả\b
+Haircare & Body,1,\bconditioner\b
+Haircare & Body,1,\bkem\s*ủ\s*tóc\b
+Haircare & Body,1,\bhair\s*mask\b
+Haircare & Body,1,\bsữa\s*tắm\b
+Haircare & Body,1,\bshower\s*gel\b
+Haircare & Body,1,\bbody\s*wash\b
+Haircare & Body,1,\blifebuoy\b
+Haircare & Body,1,\bdove\b(?=\s*(sữa|tắm|xà))
+Haircare & Body,1,\bhazeline\b
+Haircare & Body,1,\bvaga\b
+Haircare & Body,1,\bnysha\b
+Haircare & Body,1,\benchanteur\b
+Haircare & Body,1,\bst\.?\s*ives\b
+Haircare & Body,1,\bkrill\b(?=\s*(sữa|tắm))
+Haircare & Body,1,\bfuji\b(?=\s*(sữa|tắm))
+Haircare & Body,1,\bxà\s*bông\b
+Haircare & Body,1,\bxà\s*phòng\b
+Haircare & Body,1,\bsoap\b
+Haircare & Body,1,\blăn\s*nách\b
+Haircare & Body,1,\bdeodorant\b
+Haircare & Body,1,\bkhử\s*mùi\b
+Haircare & Body,1,\bnivea\b
+Haircare & Body,1,\bnước\s*hoa\b
+Haircare & Body,1,\bperfume\b
+Haircare & Body,1,\bparfum\b
+Haircare & Body,1,\baxe\b(?=\s*(nước|hoa|hương))
+Haircare & Body,1,\bcosy\b(?=\s*(dầu|gội))
+Haircare & Body,1,\bbque\b
+Skincare,2,\bserum\b
+Skincare,2,\btoner\b
+Skincare,2,\bnước\s*hoa\s*hồng\b
+Skincare,2,\bessence\b
+Skincare,2,\bkem\s*dưỡng\b
+Skincare,2,\bkem\s*chống\s*nắng\b
+Skincare,2,\bsunscreen\b
+Skincare,2,\bspf\b
+Skincare,2,\bsữa\s*rửa\s*mặt\b
+Skincare,2,\bgel\s*rửa\s*mặt\b
+Skincare,2,\bfacial\s*(wash|cleanser)\b
+Skincare,2,\bcleanser\b
+Skincare,2,\bfoam\s*(rửa|wash)\b
+Skincare,2,\btẩy\s*trang\b
+Skincare,2,\bmicellar\b
+Skincare,2,\bmake[\s\-]?up\s*remover\b
+Skincare,2,\bmặt\s*nạ\b
+Skincare,2,\bsheet\s*mask\b
+Skincare,2,\bface\s*mask\b
+Skincare,2,\bkem\s*trị\s*mụn\b
+Skincare,2,\bmiếng\s*dán\s*mụn\b
+Skincare,2,\bacne\s*patch\b
+Skincare,2,\bpimple\s*patch\b
+Skincare,2,\bgel\s*(bôi|trị)\s*mụn\b
+Skincare,2,\bacmegel\b
+Skincare,2,\bneothera\b
+Skincare,2,\bfocallure\s*acne\b
+Skincare,2,\bacnes\b
+Skincare,2,\btẩy\s*da\s*chết\b
+Skincare,2,\bbha\b
+Skincare,2,\baha\b
+Skincare,2,\bexfoliat\b
+Skincare,2,\bsalicylic\s*acid\b
+Skincare,2,\bgăng\s*tay\s*tẩy\b
+Skincare,2,\bjary\b
+Skincare,2,\bkem\s*lót\b
+Skincare,2,\bkem\s*nền\b
+Skincare,2,\bbb\s*cream\b
+Skincare,2,\bcc\s*cream\b
+Skincare,2,\bcetaphil\b
+Skincare,2,\bcerave\b
+Skincare,2,\bneutrogena\b
+Skincare,2,\bdermablock\b
+Skincare,2,\bdermarium\b
+Skincare,2,\bcocoon\b
+Skincare,2,\bsenka\b
+Skincare,2,\bhadalabo\b
+Skincare,2,\banua\b
+Skincare,2,\bmediheal\b
+Skincare,2,\bnaruko\b
+Skincare,2,\bsur\.?\s*medic\b
+Skincare,2,\bbanobagi\b
+Skincare,2,\bjudydoll\b
+Skincare,2,\bm89\b
+Skincare,2,\bprobiotic\b(?=\s*(kem|dưỡng|cấp))
+Skincare,2,\bl\'oreal\b
+Skincare,2,\bloreal\b
+Skincare,2,\bst\.?\s*ives\b(?=\s*(srm|tẩy|rửa))
+Skincare,2,\bkhoáng\b(?=\s*(nước|tẩy|trang))
+Skincare,2,\bsữa\s*chống\s*nắng\b
+Skincare,2,\bnắng\s*spf\b
+Makeup,3,\bson\s*(môi|tint|bóng|kem|lì|dưỡng)?\b
+Makeup,3,\blip\s*(stick|tint|gloss|color)\b
+Makeup,3,\bphấn\s*(má|phủ|mắt|highlight)\b
+Makeup,3,\bblush\b
+Makeup,3,\bhighlight\b
+Makeup,3,\bconceal\b
+Makeup,3,\bche\s*khuyết\s*điểm\b
+Makeup,3,\bconcealer\b
+Makeup,3,\bxịt\s*khóa\s*nền\b
+Makeup,3,\bsetting\s*spray\b
+Makeup,3,\bfixing\s*spray\b
+Makeup,3,\bkem\s*lót\b(?=\s*(trang|điểm|makeup))
+Makeup,3,\bgiấy\s*thấm\s*dầu\b
+Makeup,3,\boil\s*blotting\b
+Makeup,3,\bmerina\b
+Makeup,3,\bbông\s*(mút|tẩy)\s*(trang|điểm)\b
+Makeup,3,\bcọ\s*(mắt|tán|son)\b
+Makeup,3,\bdao\s*cạo\s*chân\s*mày\b
+Makeup,3,\bbông\s*tẩy\s*trang\b(?=\s*(calla|befou|ipek))
+Makeup,3,\bcalla\b(?=\s*(bông|tẩy))
+Makeup,3,\bipek\b
+Makeup,3,\bbefou\b
+Makeup,3,\buuyp\b
+Makeup,3,\bmoon\s*eyes\b
+Makeup,3,\bamortals\b
+Makeup,3,\bcolorkey\b
+Makeup,3,\bfoif\b
+Makeup,3,\bprany\b
+Makeup,3,\bmbl\b(?=\s*(xịt|khóa))
+Makeup,3,\bmascara\b
+Makeup,3,\beyeliner\b
+Makeup,3,\beyeshadow\b
+Makeup,3,\bfoundation\b
+Makeup,3,\bcushion\b
+Makeup,3,\bpowder\s*puff\b

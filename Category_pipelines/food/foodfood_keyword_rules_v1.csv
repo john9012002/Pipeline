@@ -1,0 +1,209 @@
+﻿label,priority,pattern
+Thịt - Hải sản - Trứng,1,\bthịt\s*(heo|lợn|bò|gà|vịt|dê|ngan|bồ câu|thỏ)\b
+Thịt - Hải sản - Trứng,1,\bthịt\s*xay\b
+Thịt - Hải sản - Trứng,1,\bthịt\s*ba\s*chỉ\b
+Thịt - Hải sản - Trứng,1,\bsườn\b
+Thịt - Hải sản - Trứng,1,\bxương\b
+Thịt - Hải sản - Trứng,1,\bba\s*rọi\b
+Thịt - Hải sản - Trứng,1,\bnạc\s*vai\b
+Thịt - Hải sản - Trứng,1,\bnạc\s*đùi\b
+Thịt - Hải sản - Trứng,1,\bcốt\s*lết\b
+Thịt - Hải sản - Trứng,1,\bchân\s*gà\b
+Thịt - Hải sản - Trứng,1,\bgà\s*(nướng|chiên|luộc|rang|hấp)\b
+Thịt - Hải sản - Trứng,1,\bcá\s*(nục|hồi|thu|basa|ngừ|tuyết|lóc|tra|bống|hake)\b
+Thịt - Hải sản - Trứng,1,\btôm\b
+Thịt - Hải sản - Trứng,1,\bmực\b
+Thịt - Hải sản - Trứng,1,\bcua\b
+Thịt - Hải sản - Trứng,1,\bghẹ\b
+Thịt - Hải sản - Trứng,1,\bnghêu\b
+Thịt - Hải sản - Trứng,1,\bhào\b
+Thịt - Hải sản - Trứng,1,\bsò\b
+Thịt - Hải sản - Trứng,1,\btrứng\s*(gà|vịt|cút|omega)\b
+Thịt - Hải sản - Trứng,1,\bhải\s*sản\b
+Thịt - Hải sản - Trứng,1,\bseafood\b
+Thịt - Hải sản - Trứng,1,\bsashimi\b
+Thịt - Hải sản - Trứng,1,\bmeat\s*deli\b
+Thịt - Hải sản - Trứng,1,\bc\.p\b
+Thịt - Hải sản - Trứng,1,\bvissan\b
+Rau - Củ - Quả,1,\brau\s*(cải|muống|mồng tơi|dền|ngót|lang|nhút|má|bina|bó xôi)\b
+Rau - Củ - Quả,1,\bcải\s*(thảo|xanh|thìa|ngọt|bắp|trắng)\b
+Rau - Củ - Quả,1,\bbắp\s*cải\b
+Rau - Củ - Quả,1,\bxà\s*lách\b
+Rau - Củ - Quả,1,\bsalad\s*(leaves?|xanh)?\b
+Rau - Củ - Quả,1,\bnấm\s*(kim châm|rơm|đông cô|linh chi|bào ngư|hương)\b
+Rau - Củ - Quả,1,\bkhoai\s*(tây|lang|môn|mỡ)\b
+Rau - Củ - Quả,1,\bcủ\s*cải\b
+Rau - Củ - Quả,1,\bcà\s*rốt\b
+Rau - Củ - Quả,1,\bhành\s*(tây|lá|tím)\b
+Rau - Củ - Quả,1,\btỏi\b
+Rau - Củ - Quả,1,\bgừng\b
+Rau - Củ - Quả,1,\bsả\b
+Rau - Củ - Quả,1,\bớt\s*(tươi|đỏ|xanh)\b
+Rau - Củ - Quả,1,\bbắp\b
+Rau - Củ - Quả,1,\bngô\b
+Rau - Củ - Quả,1,\bđậu\b
+Rau - Củ - Quả,1,\bcà\s*chua\b
+Rau - Củ - Quả,1,\bdưa\s*(leo|chuột|hấu|lưới)\b
+Rau - Củ - Quả,1,\bkh[oố]\s*qua\b
+Rau - Củ - Quả,1,\bbí\s*(đao|đỏ|ngô)\b
+Rau - Củ - Quả,1,\bmăng\b
+Rau - Củ - Quả,1,\bxoài\b
+Rau - Củ - Quả,1,\bổi\b
+Rau - Củ - Quả,1,\btáo\b
+Rau - Củ - Quả,1,\blê\b
+Rau - Củ - Quả,1,\bcam\b
+Rau - Củ - Quả,1,\bquýt\b
+Rau - Củ - Quả,1,\bbưởi\b
+Rau - Củ - Quả,1,\bchuối\b
+Rau - Củ - Quả,1,\bdâu\b
+Rau - Củ - Quả,1,\bnho\b
+Rau - Củ - Quả,1,\bthanh\s*long\b
+Rau - Củ - Quả,1,\bđu\s*đủ\b
+Rau - Củ - Quả,1,\bchôm\s*chôm\b
+Rau - Củ - Quả,1,\bmít\b
+Rau - Củ - Quả,1,\bvải\b
+Rau - Củ - Quả,1,\bnhãn\b
+Rau - Củ - Quả,1,\bdứa\b
+Rau - Củ - Quả,1,\btrái\s*cây\b
+Rau - Củ - Quả,1,\bfruit\b
+Snack - Bánh kẹo,2,\bsnack\b
+Snack - Bánh kẹo,2,\boishi\b
+Snack - Bánh kẹo,2,\bbánh\s*quy\b
+Snack - Bánh kẹo,2,\bcookies?\b
+Snack - Bánh kẹo,2,\bchips?\b
+Snack - Bánh kẹo,2,\bpopcorn\b
+Snack - Bánh kẹo,2,\bbỏng\s*ngô\b
+Snack - Bánh kẹo,2,\bbánh\s*tráng\b
+Snack - Bánh kẹo,2,\bwafer\b
+Snack - Bánh kẹo,2,\bcracker\b
+Snack - Bánh kẹo,2,\bkẹo\b
+Snack - Bánh kẹo,2,\bchocolate\b
+Snack - Bánh kẹo,2,\bsocola\b
+Snack - Bánh kẹo,2,\bnougat\b
+Snack - Bánh kẹo,2,\bthạch\b
+Snack - Bánh kẹo,2,\bjelly\b
+Snack - Bánh kẹo,2,\bhạt\s*(điều|bí|hướng dương|macca)\b
+Snack - Bánh kẹo,2,\bđậu\s*phộng\b
+Snack - Bánh kẹo,2,\bpeanut\b
+Snack - Bánh kẹo,2,\blotte\b
+Snack - Bánh kẹo,2,\brichy\b
+Snack - Bánh kẹo,2,\boreo\b
+Snack - Bánh kẹo,2,\bkitkat\b
+Snack - Bánh kẹo,2,\bbouchee\b
+Snack - Bánh kẹo,2,\bpocky\b
+Snack - Bánh kẹo,2,\bpillows?\b
+Snack - Bánh kẹo,2,\bsnack\s*bắp\b
+Snack - Bánh kẹo,2,\bbánh\s*phồng\b
+Mì - Ngũ cốc - Khô,2,\bmì\s*gói\b
+Mì - Ngũ cốc - Khô,2,\bmì\s*tôm\b
+Mì - Ngũ cốc - Khô,2,\bmì\s*xào\b
+Mì - Ngũ cốc - Khô,2,\bmì\s*trộn\b
+Mì - Ngũ cốc - Khô,2,\bacecook\b
+Mì - Ngũ cốc - Khô,2,\bhảo\s*hảo\b
+Mì - Ngũ cốc - Khô,2,\bomachi\b
+Mì - Ngũ cốc - Khô,2,\bkokomi\b
+Mì - Ngũ cốc - Khô,2,\bvifon\b
+Mì - Ngũ cốc - Khô,2,\bgoreng\b
+Mì - Ngũ cốc - Khô,2,\bmaggi\b
+Mì - Ngũ cốc - Khô,2,\bgạo\b
+Mì - Ngũ cốc - Khô,2,\bcơm\s*(tấm|trắng)?\b(?!chiên|rang|xào)
+Mì - Ngũ cốc - Khô,2,\bnugg?ets?\b
+Mì - Ngũ cốc - Khô,2,\bbột\s*mì\b
+Mì - Ngũ cốc - Khô,2,\bngũ\s*cốc\b
+Mì - Ngũ cốc - Khô,2,\bgranola\b
+Mì - Ngũ cốc - Khô,2,\byến\s*mạch\b
+Mì - Ngũ cốc - Khô,2,\boat\b
+Mì - Ngũ cốc - Khô,2,\bcornflakes\b
+Mì - Ngũ cốc - Khô,2,\bmiến\b
+Mì - Ngũ cốc - Khô,2,\bhủ\s*tiếu\b
+Gia vị - Sốt - Dầu,3,\bnước\s*mắm\b
+Gia vị - Sốt - Dầu,3,\bdầu\s*ăn\b
+Gia vị - Sốt - Dầu,3,\bdầu\s*hào\b
+Gia vị - Sốt - Dầu,3,\bdầu\s*mè\b
+Gia vị - Sốt - Dầu,3,\bgiấm\b
+Gia vị - Sốt - Dầu,3,\bbột\s*nêm\b
+Gia vị - Sốt - Dầu,3,\bgía\s*vị\b
+Gia vị - Sốt - Dầu,3,\bgia\s*vị\b
+Gia vị - Sốt - Dầu,3,\bmuối\b
+Gia vị - Sốt - Dầu,3,\bđường\b
+Gia vị - Sốt - Dầu,3,\btiêu\b
+Gia vị - Sốt - Dầu,3,\bột\s*ớt\b
+Gia vị - Sốt - Dầu,3,\bbột\s*tỏi\b
+Gia vị - Sốt - Dầu,3,\btương\s*(ớt|đen|hoisin|barbecue)\b
+Gia vị - Sốt - Dầu,3,\bchinsu\b
+Gia vị - Sốt - Dầu,3,\bmaggi\s*sốt\b
+Gia vị - Sốt - Dầu,3,\bknorr\b
+Gia vị - Sốt - Dầu,3,\bmasan\b
+Gia vị - Sốt - Dầu,3,\bnước\s*sốt\b
+Gia vị - Sốt - Dầu,3,\bsốt\b
+Gia vị - Sốt - Dầu,3,\bmayonnaise\b
+Gia vị - Sốt - Dầu,3,\bmù\s*tạt\b
+Gia vị - Sốt - Dầu,3,\bketchup\b
+Gia vị - Sốt - Dầu,3,\bbơ\b
+Gia vị - Sốt - Dầu,3,\bmật\s*ong\b
+Gia vị - Sốt - Dầu,3,\bhoney\b
+Gia vị - Sốt - Dầu,3,\bdầu\s*oliu\b
+Gia vị - Sốt - Dầu,3,\bolive\s*oil\b
+Gia vị - Sốt - Dầu,3,\bxúc\s*xích\b
+Gia vị - Sốt - Dầu,3,\bpate\b
+Gia vị - Sốt - Dầu,3,\bgiò\s*lụa\b
+Gia vị - Sốt - Dầu,3,\bchả\s*lụa\b
+Gia vị - Sốt - Dầu,3,\bnem\s*chua\b
+Gia vị - Sốt - Dầu,3,\blạp\s*xưởng\b
+Gia vị - Sốt - Dầu,3,\bthịt\s*nguội\b
+Dairy - Kem - Phô mai,3,\bkem\s*(que|hộp|ly|cone|lạnh|socola|vani|trà sữa)\b
+Dairy - Kem - Phô mai,3,\bice\s*cream\b
+Dairy - Kem - Phô mai,3,\bcelano\b
+Dairy - Kem - Phô mai,3,\bwalls?\b
+Dairy - Kem - Phô mai,3,\bmerino\b
+Dairy - Kem - Phô mai,3,\bphô\s*mai\b
+Dairy - Kem - Phô mai,3,\bcheese\b
+Dairy - Kem - Phô mai,3,\bmozzarella\b
+Dairy - Kem - Phô mai,3,\bpudding\b
+Dairy - Kem - Phô mai,3,\bflan\b
+Dairy - Kem - Phô mai,3,\bmousse\b
+Dairy - Kem - Phô mai,3,\byến\s*chưng\b
+Dairy - Kem - Phô mai,3,\bnước\s*yến\b
+Dairy - Kem - Phô mai,3,\byến\s*sào\b
+Đồ ăn chế biến sẵn,4,\bbún\b
+Đồ ăn chế biến sẵn,4,\bphở\b
+Đồ ăn chế biến sẵn,4,\bhủ\s*tiếu\b
+Đồ ăn chế biến sẵn,4,\bbánh\s*canh\b
+Đồ ăn chế biến sẵn,4,\bcháo\b
+Đồ ăn chế biến sẵn,4,\bxôi\b
+Đồ ăn chế biến sẵn,4,\bcơm\s*(chiên|rang|tấm|trộn)\b
+Đồ ăn chế biến sẵn,4,\bgà\s*(chiên|nướng|rang muối|xào sả ớt)\b
+Đồ ăn chế biến sẵn,4,\bbánh\s*mì\b
+Đồ ăn chế biến sẵn,4,\bsandwich\b
+Đồ ăn chế biến sẵn,4,\bburger\b
+Đồ ăn chế biến sẵn,4,\bpizza\b
+Đồ ăn chế biến sẵn,4,\bpasta\b
+Đồ ăn chế biến sẵn,4,\bmì\s*ý\b
+Đồ ăn chế biến sẵn,4,\bspaghetti\b
+Đồ ăn chế biến sẵn,4,\bkimbap\b
+Đồ ăn chế biến sẵn,4,\bgimbap\b
+Đồ ăn chế biến sẵn,4,\bsushi\b
+Đồ ăn chế biến sẵn,4,\bsashimi\b
+Đồ ăn chế biến sẵn,4,\bdimsum\b
+Đồ ăn chế biến sẵn,4,\bhá\s*cảo\b
+Đồ ăn chế biến sẵn,4,\bxíu\s*mại\b
+Đồ ăn chế biến sẵn,4,\bbánh\s*bao\b
+Đồ ăn chế biến sẵn,4,\bchả\s*giò\b
+Đồ ăn chế biến sẵn,4,\bnem\s*nướng\b
+Đồ ăn chế biến sẵn,4,\bbánh\s*cuốn\b
+Đồ ăn chế biến sẵn,4,\bbánh\s*xèo\b
+Đồ ăn chế biến sẵn,4,\bsteak\b
+Đồ ăn chế biến sẵn,4,\bbít\s*tết\b
+Đồ ăn chế biến sẵn,4,\bbò\s*né\b
+Đồ ăn chế biến sẵn,4,\blẩu\b
+Đồ ăn chế biến sẵn,4,\bhotpot\b
+Đồ ăn chế biến sẵn,4,\bkim\s*chi\b
+Đồ ăn chế biến sẵn,4,\bkimchi\b
+Đồ ăn chế biến sẵn,4,\bbuffet\b
+Đồ ăn chế biến sẵn,4,\bsuất\s*ăn\b
+Đồ ăn chế biến sẵn,4,\bcombo\b
+Đồ ăn chế biến sẵn,4,\bset\s*(ăn|cơm|lẩu)\b
+Đồ ăn chế biến sẵn,4,\botto\b
+Đồ ăn chế biến sẵn,4,\byamazaki\b
+Đồ ăn chế biến sẵn,4,\bomiki\b
+Đồ ăn chế biến sẵn,4,\bvé\s*(ăn|buffet)\b

@@ -1,0 +1,138 @@
+﻿final_label,rule_sub,count
+Accessories,Accessories,5
+Accessories,Other,5
+Accessories,Medical,2
+Accessories,Clothing,1
+Accessories,Food_Dairy_Eating,1
+Accessories,Food_Fresh_Produce,1
+Accessories,Jewelry,1
+Accessories,Service,1
+Beverages,Other,2841
+Beverages,Beverages_NonAlcoholic,2825
+Beverages,Beverages_Alcoholic,292
+Beverages,Service,131
+Beverages,Food_Fresh_Produce,113
+Beverages,Food_Dairy_Eating,96
+Beverages,Food_Dry_Condiment,86
+Beverages,Jewelry,70
+Beverages,Food_Snack_Confectionery,37
+Beverages,Cosmetics_Makeup,12
+Beverages,Medical,6
+Beverages,Clothing,5
+Beverages,Electronics,3
+Beverages,Food_Starchy_Grain,3
+Beverages,Food_Meat_Seafood,1
+Books,Other,33
+Books,Home_Office,20
+Books,Books,6
+Books,Food_Meat_Seafood,5
+Books,Electronics,2
+Books,Food_Fresh_Produce,2
+Books,Service,2
+Books,Beverages_NonAlcoholic,1
+Books,Clothing,1
+Clothing,Clothing,56
+Clothing,Other,29
+Clothing,Beverages_NonAlcoholic,2
+Clothing,Beverages_Alcoholic,1
+Clothing,Cosmetics_Makeup,1
+Clothing,Food_Dairy_Eating,1
+Clothing,Food_Fresh_Produce,1
+Clothing,Food_Meat_Seafood,1
+Clothing,Jewelry,1
+Cosmetics,Other,53
+Cosmetics,Cosmetics_Personal_Care,16
+Cosmetics,Food_Dairy_Eating,15
+Cosmetics,Accessories,9
+Cosmetics,Cosmetics_Skincare,6
+Cosmetics,Food_Meat_Seafood,6
+Cosmetics,Medical,6
+Cosmetics,Cosmetics_Makeup,5
+Cosmetics,Service,5
+Cosmetics,Beverages_Alcoholic,4
+Cosmetics,Cosmetics_Haircare,4
+Cosmetics,Food_Processed_Ready,4
+Cosmetics,Beverages_NonAlcoholic,3
+Cosmetics,Electronics,2
+Cosmetics,Food_Dry_Condiment,2
+Cosmetics,Clothing,1
+Cosmetics,Food_Snack_Confectionery,1
+Cosmetics,Food_Starchy_Grain,1
+Cosmetics,Jewelry,1
+Cần rà soát,Other,186
+Cần rà soát,Beverages_NonAlcoholic,49
+Cần rà soát,Food_Fresh_Produce,44
+Cần rà soát,Food_Meat_Seafood,18
+Cần rà soát,Beverages_Alcoholic,16
+Cần rà soát,Food_Snack_Confectionery,7
+Cần rà soát,Food_Dairy_Eating,6
+Cần rà soát,Clothing,5
+Cần rà soát,Food_Dry_Condiment,5
+Cần rà soát,Food_Processed_Ready,5
+Cần rà soát,Electronics,4
+Cần rà soát,Medical,4
+Cần rà soát,Service,4
+Cần rà soát,Food_Starchy_Grain,3
+Cần rà soát,Jewelry,3
+Cần rà soát,Cosmetics_Makeup,2
+Cần rà soát,Home_Office,2
+Cần rà soát,Accessories,1
+Electronics,Other,14
+Electronics,Electronics,8
+Electronics,Accessories,3
+Electronics,Food_Fresh_Produce,2
+Electronics,Food_Meat_Seafood,2
+Electronics,Beverages_NonAlcoholic,1
+Electronics,Cosmetics_Makeup,1
+Electronics,Food_Processed_Ready,1
+Food,Other,1372
+Food,Food_Meat_Seafood,843
+Food,Food_Fresh_Produce,508
+Food,Food_Snack_Confectionery,463
+Food,Food_Processed_Ready,379
+Food,Food_Dry_Condiment,179
+Food,Food_Dairy_Eating,106
+Food,Beverages_NonAlcoholic,31
+Food,Beverages_Alcoholic,30
+Food,Service,27
+Food,Clothing,13
+Food,Food_Starchy_Grain,8
+Food,Jewelry,6
+Food,Cosmetics_Makeup,3
+Food,Cosmetics_Skincare,1
+Food,Electronics,1
+Food,Medical,1
+Home & Office,Other,26
+Home & Office,Accessories,12
+Home & Office,Home_Office,6
+Home & Office,Cosmetics_Personal_Care,4
+Home & Office,Medical,4
+Home & Office,Food_Fresh_Produce,2
+Home & Office,Cosmetics_Makeup,1
+Home & Office,Entertainment,1
+Medical,Other,275
+Medical,Medical,42
+Medical,Service,19
+Medical,Food_Fresh_Produce,12
+Medical,Cosmetics_Makeup,7
+Medical,Food_Starchy_Grain,5
+Medical,Beverages_Alcoholic,4
+Medical,Food_Meat_Seafood,4
+Medical,Accessories,2
+Medical,Beverages_NonAlcoholic,1
+Medical,Clothing,1
+Medical,Cosmetics_Personal_Care,1
+Medical,Cosmetics_Skincare,1
+Medical,Food_Snack_Confectionery,1
+Medical,Home_Office,1
+Medical,Jewelry,1
+Pet,Food_Dry_Condiment,13
+Pet,Food_Meat_Seafood,12
+Pet,Other,12
+Service,Other,90
+Service,Service,24
+Service,Food_Fresh_Produce,3
+Service,Accessories,2
+Service,Cosmetics_Makeup,2
+Service,Food_Meat_Seafood,2
+Service,Food_Snack_Confectionery,1

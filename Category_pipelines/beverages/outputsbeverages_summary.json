@@ -1,0 +1,25 @@
+{
+  "total_items": 6791,
+  "labeled_ground_truth": 6791,
+  "rule_match_rate": "73.0%",
+  "best_model": "char TF-IDF + LR",
+  "f1_macro_char_lr": "98.58%",
+  "f1_macro_word_lr": "98.37%",
+  "f1_macro_xgb": "97.57%",
+  "best_f1_macro": "98.58%",
+  "ready_for_train": 6791,
+  "review_queue": 0,
+  "noise_detected": 119,
+  "classes": [
+    "Bia",
+    "Cà phê",
+    "Nước khoáng - Nước suối",
+    "Nước ngọt",
+    "Nước tăng lực",
+    "Rượu",
+    "Sinh tố - Nước ép",
+    "Sữa tươi",
+    "Trà",
+    "Trà sữa"
+  ]
+}

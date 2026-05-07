@@ -1,0 +1,148 @@
+﻿label,priority,pattern
+Bia,1,\bbia\b
+Bia,1,\bbeer\b
+Bia,1,\bheineken\b
+Bia,1,\btiger\b
+Bia,1,\b333\b
+Bia,1,\bbia sài gòn\b
+Bia,1,\bbia hà nội\b
+Bia,1,\bbudweiser\b
+Bia,1,\bcoron[ao]\b
+Bia,1,\bsapporo\b
+Bia,1,\bbia huda\b
+Bia,1,\bbia thanh\b
+Bia,1,\bstrongbow\b
+Bia,1,\bcider\b
+Bia,1,\bbia tuoi\b
+Bia,1,\bbia tươi\b
+Bia,1,\bbeer\b
+Rượu,1,\brượu\b
+Rượu,1,\bwine\b
+Rượu,1,\bvang\b
+Rượu,1,\bwhisk[ey]y?\b
+Rượu,1,\bvodka\b
+Rượu,1,\bgin\b
+Rượu,1,\brum\b
+Rượu,1,\bbrandy\b
+Rượu,1,\bcognac\b
+Rượu,1,\bsake\b
+Rượu,1,\bsoju\b
+Rượu,1,\bjinro\b
+Rượu,1,\bhansberry\b
+Rượu,1,\bchampagne\b
+Rượu,1,\bprosecco\b
+Rượu,1,\bmead\b
+Nước tăng lực,1,\bnước tăng lực\b
+Nước tăng lực,1,\btăng lực\b
+Nước tăng lực,1,\bsting\b
+Nước tăng lực,1,\bred\s?bull\b
+Nước tăng lực,1,\bmonster\b
+Nước tăng lực,1,\bnumber\s?1\b
+Nước tăng lực,1,\bsangster\b
+Nước tăng lực,1,\bwake\s?up\b
+Nước tăng lực,1,\bpower\b
+Nước tăng lực,1,\benergy\b
+Sữa tươi,2,\bsữa tươi\b
+Sữa tươi,2,\bsua tuoi\b
+Sữa tươi,2,\bsữa\s*cacao\b
+Sữa tươi,2,\bsữa\s*dâu\b
+Sữa tươi,2,\bsữa\s*chocolate\b
+Sữa tươi,2,\bsữa\s*dừa\b
+Sữa tươi,2,\bsữa\s*đặc\b
+Sữa tươi,2,\bvinamilk\b
+Sữa tươi,2,\bth\s?true\s?milk\b
+Sữa tươi,2,\bdalat\s?milk\b
+Sữa tươi,2,\bsữa\s*hộp\b
+Sữa tươi,2,\bsữa\s*lon\b
+Sữa tươi,2,\bmilo\b
+Sữa tươi,2,\bovaltine\b
+Sữa tươi,2,\byakult\b
+Sữa tươi,2,\bsữa\s*chua\s*uống\b
+Sinh tố - Nước ép,2,\bsinh tố\b
+Sinh tố - Nước ép,2,\bnước ép\b
+Sinh tố - Nước ép,2,\bjuice\b
+Sinh tố - Nước ép,2,\bép\b
+Sinh tố - Nước ép,2,\bsmoothie\b
+Sinh tố - Nước ép,2,\bsinh\s*tố\b
+Sinh tố - Nước ép,2,\bnuoc\s*ep\b
+Sinh tố - Nước ép,2,\btrái\s*cây\s*xay\b
+Sinh tố - Nước ép,2,\bchanh\s*muối\b
+Sinh tố - Nước ép,2,\bnước\s*dừa\b
+Sinh tố - Nước ép,2,\bcoconut\s*water\b
+Sinh tố - Nước ép,2,\bnước\s*mía\b
+Sinh tố - Nước ép,2,\bsugarcane\b
+Trà sữa,3,\btrà\s*sữa\b
+Trà sữa,3,\btra\s*sua\b
+Trà sữa,3,\bmilk\s*tea\b
+Trà sữa,3,\bbubble\s*tea\b
+Trà sữa,3,\bboba\b
+Trà sữa,3,\boolong\b
+Trà sữa,3,\bôlong\b
+Trà sữa,3,\btrân\s*châu\b
+Trà sữa,3,\btran\s*chau\b
+Trà sữa,3,\bmatcha\s*sữa\b
+Trà sữa,3,\bloosefull\b
+Trà sữa,3,\bpocky\s*tea\b
+Cà phê,4,\bcà phê\b
+Cà phê,4,\bcafe\b
+Cà phê,4,\bcaphe\b
+Cà phê,4,\bcoffee\b
+Cà phê,4,\bespresso\b
+Cà phê,4,\blatte\b
+Cà phê,4,\bcappuccino\b
+Cà phê,4,\bamericano\b
+Cà phê,4,\bphin\b
+Cà phê,4,\bcold\s*brew\b
+Cà phê,4,\biced\s*coffee\b
+Cà phê,4,\biacoffee\b
+Cà phê,4,\btrung\s*nguyên\b
+Cà phê,4,\bhighlands\b
+Cà phê,4,\bthe\s*coffee\s*house\b
+Cà phê,4,\bca\s*phe\b
+Trà,4,\btrà\b
+Trà,4,\btea\b
+Trà,4,\bmatcha\b
+Trà,4,\bolong\b
+Trà,4,\bhồng trà\b
+Trà,4,\btrà xanh\b
+Trà,4,\bgreentea\b
+Trà,4,\blipton\b
+Trà,4,\bchanh\b
+Trà,4,\btrà\s*đào\b
+Trà,4,\btrà\s*tắc\b
+Trà,4,\btrà\s*gừng\b
+Trà,4,\btrà\s*sen\b
+Trà,4,\bherbal\b
+Trà,4,\blatte\s*matcha\b
+Trà,4,\bice\s*tea\b
+Trà,4,\bcho\s*coc\b
+Nước ngọt,5,\bnước ngọt\b
+Nước ngọt,5,\bcoca\b
+Nước ngọt,5,\bcola\b
+Nước ngọt,5,\bpepsi\b
+Nước ngọt,5,\bsprite\b
+Nước ngọt,5,\b7\s?up\b
+Nước ngọt,5,\bfanta\b
+Nước ngọt,5,\bschweppes\b
+Nước ngọt,5,\bsoda\b
+Nước ngọt,5,\bc2\b
+Nước ngọt,5,\baquafina\b
+Nước ngọt,5,\btwister\b
+Nước ngọt,5,\bkombucha\b
+Nước ngọt,5,\biso\s*sport\b
+Nước ngọt,5,\bgatorade\b
+Nước ngọt,5,\bpocari\b
+Nước khoáng - Nước suối,5,\bnước suối\b
+Nước khoáng - Nước suối,5,\bnước khoáng\b
+Nước khoáng - Nước suối,5,\bnuoc\s*suoi\b
+Nước khoáng - Nước suối,5,\bnuoc\s*khoang\b
+Nước khoáng - Nước suối,5,\blavie\b
+Nước khoáng - Nước suối,5,\bvĩnh hảo\b
+Nước khoáng - Nước suối,5,\bdasani\b
+Nước khoáng - Nước suối,5,\baqua\b
+Nước khoáng - Nước suối,5,\bvinh\s*hao\b
+Nước khoáng - Nước suối,5,\bvivant\b
+Nước khoáng - Nước suối,5,\bjoy\b
+Nước khoáng - Nước suối,5,\bfclass\b
+Nước khoáng - Nước suối,5,\bnước tinh khiết\b
+Nước khoáng - Nước suối,5,\bwater\b

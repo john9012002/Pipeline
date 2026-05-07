@@ -1,0 +1,17 @@
+{
+  "total_items": 143,
+  "sub_groups": [
+    "Haircare & Body",
+    "Makeup",
+    "Personal Care",
+    "Skincare"
+  ],
+  "cv_f1_char_lr": "90.43%",
+  "cv_f1_word_lr": "89.87%",
+  "best_model": "char TF-IDF + LR",
+  "best_cv_f1": "90.43%",
+  "ready_for_train": 143,
+  "review_queue": 0,
+  "noise_removed": 1,
+  "keyword_rules": 166
+}

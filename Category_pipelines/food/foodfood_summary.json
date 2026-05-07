@@ -1,0 +1,21 @@
+{
+  "total_items": 4012,
+  "ground_truth_labels": 4012,
+  "rule_match_rate": "58.4%",
+  "best_model": "char TF-IDF+LR",
+  "f1_char_lr": "97.59%",
+  "f1_word_lr": "97.55%",
+  "f1_xgb": "94.55%",
+  "best_f1_macro": "97.59%",
+  "ready_for_train": 4012,
+  "review_queue": 0,
+  "classes": [
+    "Dairy - Kem - Phô mai",
+    "Gia vị - Sốt - Dầu",
+    "Mì - Ngũ cốc - Khô",
+    "Rau - Củ - Quả",
+    "Snack - Bánh kẹo",
+    "Thịt - Hải sản - Trứng",
+    "Đồ ăn chế biến sẵn"
+  ]
+}
